@@ -11,7 +11,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
 ## List of all plugins! 🧪☕️⚡️
 
-* There are no plugins yet! Please submit one. When you do, replace this line with your plugin.
+* CustomMediumcore by Miffyli
+  * Ease Mediumcore by selecting which items are dropped upon death.
+  * Tested on TShock 4.4.0 Pre-3.
+  * [Download Version 1.4.0.0](https://files.catbox.moe/hg82yx.zip)
+  * [Source code and documentation](https://github.com/Miffyli/TerrariaCustomMediumcore)
 
 ----
 
