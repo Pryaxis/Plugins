@@ -31,7 +31,7 @@ This is the sample template:
 ```
 * [My cool plugin](https://example.com/your-github-or-project-homepage-goes-here) by aMoka
   * Adds the ability for players to ship other players. Does fancy stuff. Amazing!
-  * Tested on TShock 4.4.0 Pre-2
+  * Tested on TShock 4.4.0 Pre-2.
   * [Download Version 1.2.3](https://example.com/your-catbox-link-goes-here)
   * [Documentation](https://example.com/get-help)
   * [Source code](https://example.com/github.com/stuff/whatever)
@@ -42,6 +42,7 @@ Maybe you just don't want to provide much. In that case, the minimum stuff that 
 ```
 * My cool plugin by aMoka
   * Adds the ability for players to ship other players. Does fancy stuff. Amazing!
+  * Tested on TShock 4.4.0 Pre-2.
   * [Download Version 1.2.3](https://example.com/your-catbox-link-goes-here)
   * [Source code](https://example.com/github.com/stuff/whatever)
 ```
@@ -54,7 +55,8 @@ The one thing you cannot do is link to a non-Catbox download link. It's fine if 
 
 These are the changes made to this page that aren't really plugin related.
 
-1. Created system for submitting plugins.
+1. Created system for submitting plugins. - May 18, 2020.
+2. Updated system to include TShock test version. - May 18, 2020.
 
 ### Final note
 
