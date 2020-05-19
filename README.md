@@ -31,6 +31,7 @@ This is the sample template:
 ```
 * [My cool plugin](https://example.com/your-github-or-project-homepage-goes-here) by aMoka
   * Adds the ability for players to ship other players. Does fancy stuff. Amazing!
+  * Tested on TShock 4.4.0 Pre-2
   * [Download Version 1.2.3](https://example.com/your-catbox-link-goes-here)
   * [Documentation](https://example.com/get-help)
   * [Source code](https://example.com/github.com/stuff/whatever)
