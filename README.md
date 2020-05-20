@@ -17,6 +17,13 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.3.0.0](https://files.catbox.moe/qqdffp.dll)
   * [Documentation](https://github.com/Zaicon/InfiniteChestsV3)
   * [Source code](https://github.com/Zaicon/InfiniteChestsV3)
+* CustomMediumcore by Miffyli
+  * Ease Mediumcore by selecting which items are dropped upon death.
+  * Requirements: Server-side characters enabled. Players must have "Casual" difficulty.
+  * Place `drop_item_ids.txt` next to `TerrariaServer.exe`.
+  * Tested on TShock 4.4.0 Pre-3.
+  * [Download Version 1.4.0.0](https://files.catbox.moe/1vii7h.zip)
+  * [Source code and documentation](https://github.com/Miffyli/TerrariaCustomMediumcore)
 
 ----
 
