@@ -22,7 +22,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Requirements: Server-side characters enabled. Players must have "Casual" difficulty.
   * Place `drop_item_ids.txt` next to `TerrariaServer.exe`.
   * Tested on TShock 4.4.0 Pre-3.
-  * [Download Version 1.4.0.0](https://files.catbox.moe/1vii7h.zip)
+  * [Download Version 1.4.0.1](https://files.catbox.moe/2tplf7.zip)
   * [Source code and documentation](https://github.com/Miffyli/TerrariaCustomMediumcore)
 * Tiled by thanatos-tshock
   * Provides alternate tile implementations which improve performance and memory usage
