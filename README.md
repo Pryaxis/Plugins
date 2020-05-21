@@ -24,6 +24,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.4.0 Pre-3.
   * [Download Version 1.4.0.0](https://files.catbox.moe/1vii7h.zip)
   * [Source code and documentation](https://github.com/Miffyli/TerrariaCustomMediumcore)
+* Tiled by thanatos-tshock
+  * Provides alternate tile implementations which improve performance and memory usage
+  * Tested on TShock 4.4.0 Pre-3.
+  * [Download Version 1.4.0.0](https://files.catbox.moe/qmcthi.dll)
+  * [Source code](https://github.com/thanatos-tshock/Tiled)
 
 ----
 
