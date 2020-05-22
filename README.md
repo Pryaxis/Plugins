@@ -40,7 +40,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.4.0 Pre-6.
   * [Download Version 2.3.0](https://files.catbox.moe/7puld8.dll)
   * [Source code](https://github.com/MineBartekSA/TerraJump)
-
+* [Invincible Tiles (and walls)](https://github.com/Olink/Invincible-Tiles) by Olink
+  * Adds the ability for players to blacklist tile ids and wall ids, preventing users from breaking said tiles/walls.
+  * Tested on TShock 4.4.0 Pre-6.
+  * [Download Version 1.0](https://files.catbox.moe/35914m.dll)
+  * [Source code](https://github.com/Olink/Invincible-Tiles)
 ----
 
 ## How to submit plugins
