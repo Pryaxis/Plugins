@@ -45,6 +45,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.4.0 Pre-6.
   * [Download Version 1.0](https://files.catbox.moe/35914m.dll)
   * [Source code](https://github.com/Olink/Invincible-Tiles)
+* [TServerWeb - Online Server Manager for TShock](https://www.tserverweb.com/) by XGhozt
+  * Manage your TShock server from the web, run commands, manage players, groups, permissions and more.
+  * Tested on TShock 4.4.0 Pre-7.
+  * Addon: [TServerWeb In-Game Vote Plugin](https://gitlab.xghozt.com:2345/tsw/TSWVote/raw/master/Build/TSWVote.dll) / [Source Code](https://gitlab.xghozt.com:2345/tsw/TSWVote)
+  * Addon: [TServerWeb Remote Console](https://gitlab.xghozt.com:2345/tsw/tswconsole/raw/master/Build/TSWConsole.dll) / [Source Code](https://gitlab.xghozt.com:2345/tsw/tswconsole)
+  * [Discord Server](https://discord.gg/s63fqsW)
 ----
 
 ## How to submit plugins
