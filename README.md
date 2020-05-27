@@ -51,6 +51,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Addon: [TServerWeb In-Game Vote Plugin](https://gitlab.xghozt.com:2345/tsw/TSWVote/raw/master/Build/TSWVote.dll) / [Source Code](https://gitlab.xghozt.com:2345/tsw/TSWVote)
   * Addon: [TServerWeb Remote Console](https://gitlab.xghozt.com:2345/tsw/tswconsole/raw/master/Build/TSWConsole.dll) / [Source Code](https://gitlab.xghozt.com:2345/tsw/tswconsole)
   * [Discord Server](https://discord.gg/s63fqsW)
+* Vanillafier
+  * Sets up your server to run like the vanilla Terraria server in 1 easy command
+  * Built on TShock 4.4.0 Pre-8
+  * [Download](https://files.catbox.moe/24u8fb.dll)
+  * [Source Code](https://github.com/Pryaxis/Vanillafier)
 ----
 
 ## How to submit plugins
