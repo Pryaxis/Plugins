@@ -56,6 +56,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Built on TShock 4.4.0 Pre-8
   * [Download](https://files.catbox.moe/24u8fb.dll)
   * [Source Code](https://github.com/Pryaxis/Vanillafier)
+* [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
+  * A plugin that allows admins to become invisible to their players.
+  * Built and tested on TShock 4.4.0 Pre-8.
+  * [Download Version 2.0.0](https://files.catbox.moe/uc4pns.dll)
+  * [Documentation (pls read)](https://github.com/moisterrific/Ghost2/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/Ghost2/tree/master/Ghost2/Ghost2)
 ----
 
 ## How to submit plugins
