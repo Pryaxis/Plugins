@@ -35,6 +35,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.4.0 Pre-6.
   * [Download Version 1.7.0](https://files.catbox.moe/w8y875.dll)
   * [Source code](https://github.com/MineBartekSA/FACommands)
+* [Terracord](https://github.com/FragLand/terracord) by ldilley
+  * A Discord <-> Terraria bridge plugin for TShock
+  * Tested on TShock 4.4.0 Pre-8.
+  * [Download Version 1.2.0](https://files.catbox.moe/vajqmh.zip)
+  * [Documentation](https://github.com/FragLand/terracord/blob/master/.github/README.md)
+  * [Source code](https://github.com/FragLand/terracord)
 * TerraJump by MineBartekSA
   * Simple plugin that adds JumpPads
   * Tested on TShock 4.4.0 Pre-6.
@@ -80,7 +86,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 1. Compile your plugin as normal.
 2. Upload your release and any resources you need to [Catbox](https://catbox.moe/). This will be the download link for your plugin.
 3. Upload the source code to your plugin to GitHub. You do **not** need to make your source a copyleft license (like GPL) or even make it anything other than proprietary.
-4. Copy the template below and add in the required things in the requried spots.
+4. Copy the template below and add in the required things in the required spots.
 5. Send a pull request to this repository. Add your plugin to the list above near the other plugins.
 6. Don't remove anything that isn't yours and don't change anything you didn't already add.
 7. When your plugin is approved, it will be added to the list.
