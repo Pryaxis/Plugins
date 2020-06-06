@@ -74,6 +74,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 2.0.0](https://files.catbox.moe/ao3sk0.dll)
   * [Documentation](https://github.com/moisterrific/CustomItems2/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/CustomItems2/tree/master/CustomItemTest1/CustomItemTest1)
+* [Creative Mode](https://tshock.co/xf/index.php?resources/creative-mode.19/) by Bippity
+  * A simple "Creative Mode" for players
+  * Built on TShock 4.4.0 Pre-8
+  * [Download](https://files.catbox.moe/tkfyvq.dll)
+  * [Documentation/Source Code](https://github.com/bippity/CreativeMode)
 ----
 
 ## How to submit plugins
