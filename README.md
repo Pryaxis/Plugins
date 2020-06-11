@@ -76,18 +76,17 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Documentation](https://github.com/moisterrific/RodHealer/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/RodHealer/blob/master/Rodhealer/main.cs)
 * [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
-  * A plugin that allows admins to become invisible to their players.
-  * Built and tested on TShock 4.4.0 Pre-8.
-  * [Download Version 2.0.0](https://files.catbox.moe/uc4pns.dll)
-  * [Documentation (pls read)](https://github.com/moisterrific/Ghost2/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/Ghost2/tree/master/Ghost2/Ghost2)
+  * Allows admins to become invisible to other players.
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download Version 1.2.0](https://files.catbox.moe/wua495.zip)
+  * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
 * [Character Reset [SSC]](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
-  * Allows you to reset SSC player data without the hassle of editing the database. 
+  * Allows you to reset SSC player data without the hassle of database editing. 
   * Built and tested on TShock 4.4.0 Pre-11.
   * [Download Version 2.0.0](https://files.catbox.moe/mbqvez.zip)
   * [Documentation](https://github.com/moisterrific/CharacterReset2/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/CharacterReset2/tree/master/CharacterResetTest1/CharacterResetTest1)
-
 
 ----
 
