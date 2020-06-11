@@ -69,6 +69,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Documentation/Source Code](https://github.com/bippity/CreativeMode)
   
 ### Community Maintained Plugins 
+* [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
+  * Prevents players from losing HP when spamming the Rod of Discord.
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download Version 1.2.0](https://files.catbox.moe/gocgdm.zip)
+  * [Documentation](https://github.com/moisterrific/RodHealer/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/RodHealer/blob/master/Rodhealer/main.cs)
 * [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
   * A plugin that allows admins to become invisible to their players.
   * Built and tested on TShock 4.4.0 Pre-8.
