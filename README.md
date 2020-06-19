@@ -67,6 +67,16 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Built on TShock 4.4.0 Pre-8
   * [Download](https://files.catbox.moe/tkfyvq.dll)
   * [Documentation/Source Code](https://github.com/bippity/CreativeMode)
+* [TDiffBackup](https://github.com/tieonlinux/TDiffBackup) by [tieonlinux](https://github.com/tieonlinux)
+  * World file backup system
+  * Built on TShock 4.4.0 Pre-11
+  * [Download](https://files.catbox.moe/f8axjx.zip)
+  * [Documentation/Source Code](https://github.com/tieonlinux/TDiffBackup)
+* [ShortCommands](https://github.com/tieonlinux/ShortCommands) by [Zaicon](https://github.com/Zaicon), updated by [tieonlinux](https://github.com/tieonlinux)
+  * Create commands aliases/shortcuts
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download](https://files.catbox.moe/isj2rw.zip)
+  * [Documentation/Source Code](https://github.com/tieonlinux/ShortCommands)
 * [Team Commands](https://github.com/ZakFahey/Team-Commands) by GameRoom
   * Run commands for a whole team.
   * Built on TShock 4.4.0 Pre-8
@@ -99,7 +109,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 2.0.0](https://files.catbox.moe/mbqvez.zip)
   * [Documentation](https://github.com/moisterrific/CharacterReset2/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/CharacterReset2/tree/master/CharacterResetTest1/CharacterResetTest1)
-
 ----
 
 ## How to submit plugins
