@@ -62,18 +62,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Built on TShock 4.4.0 Pre-8
   * [Download](https://files.catbox.moe/24u8fb.dll)
   * [Source Code](https://github.com/Pryaxis/Vanillafier)
-* [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
-  * A plugin that allows admins to become invisible to their players.
-  * Built and tested on TShock 4.4.0 Pre-8.
-  * [Download Version 2.0.0](https://files.catbox.moe/uc4pns.dll)
-  * [Documentation (pls read)](https://github.com/moisterrific/Ghost2/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/Ghost2/tree/master/Ghost2/Ghost2)
-* [Custom Items](https://github.com/Interverse/CustomItems) by [Johuan/Interverse](https://github.com/Interverse), updated by [moisterrific](https://github.com/moisterrific)
-  * Spawn yourself or a friend custom items.
-  * Built and tested on TShock 4.4.0 Pre-8.
-  * [Download Version 2.0.0](https://files.catbox.moe/ao3sk0.dll)
-  * [Documentation](https://github.com/moisterrific/CustomItems2/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/CustomItems2/tree/master/CustomItemTest1/CustomItemTest1)
 * [Creative Mode](https://tshock.co/xf/index.php?resources/creative-mode.19/) by Bippity
   * A simple "Creative Mode" for players
   * Built on TShock 4.4.0 Pre-8
@@ -85,6 +73,27 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.2.1](https://files.catbox.moe/ycxf8h.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
+  
+### Community Maintained Plugins 
+* [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
+  * Prevents players from losing HP when spamming the Rod of Discord.
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download Version 1.2.0](https://files.catbox.moe/gocgdm.zip)
+  * [Documentation](https://github.com/moisterrific/RodHealer/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/RodHealer/blob/master/Rodhealer/main.cs)
+* [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows admins to become invisible to other players.
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download Version 1.2.0](https://files.catbox.moe/wua495.zip)
+  * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
+* [Character Reset [SSC]](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows you to reset SSC player data without the hassle of database editing. 
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download Version 2.0.0](https://files.catbox.moe/mbqvez.zip)
+  * [Documentation](https://github.com/moisterrific/CharacterReset2/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/CharacterReset2/tree/master/CharacterResetTest1/CharacterResetTest1)
+
 ----
 
 ## How to submit plugins
