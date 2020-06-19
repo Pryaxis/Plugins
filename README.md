@@ -67,6 +67,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Built on TShock 4.4.0 Pre-8
   * [Download](https://files.catbox.moe/tkfyvq.dll)
   * [Documentation/Source Code](https://github.com/bippity/CreativeMode)
+* [Smart Regions](https://github.com/ZakFahey/SmartRegions) by GameRoom
+  * Run programmable commands when a player is in a region.
+  * Built on TShock 4.4.0 Pre-8
+  * [Download Version 1.2.1](https://files.catbox.moe/ycxf8h.dll)
+  * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
+  * [Source code](https://github.com/ZakFahey/SmartRegions)
   
 ### Community Maintained Plugins 
 * [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
