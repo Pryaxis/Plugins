@@ -67,6 +67,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Built on TShock 4.4.0 Pre-8
   * [Download](https://files.catbox.moe/tkfyvq.dll)
   * [Documentation/Source Code](https://github.com/bippity/CreativeMode)
+* [Team Commands](https://github.com/ZakFahey/Team-Commands) by GameRoom
+  * Run commands for a whole team.
+  * Built on TShock 4.4.0 Pre-8
+  * [Download Version 1.2](https://files.catbox.moe/8mlw7v.dll)
+  * [Documentation](https://github.com/ZakFahey/Team-Commands/blob/master/README.md)
+  * [Source code](https://github.com/ZakFahey/Team-Commands)
 * [Smart Regions](https://github.com/ZakFahey/SmartRegions) by GameRoom
   * Run programmable commands when a player is in a region.
   * Built on TShock 4.4.0 Pre-8
