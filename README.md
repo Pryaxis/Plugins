@@ -109,6 +109,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 2.0.0](https://files.catbox.moe/mbqvez.zip)
   * [Documentation](https://github.com/moisterrific/CharacterReset2/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/CharacterReset2/tree/master/CharacterResetTest1/CharacterResetTest1)
+* [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
+  * Refill your world with structures and resources!
+  * Built and tested on Tshock 4.4.0 Pre-11.
+  * [Download Version 2.1.3](https://files.catbox.moe/3fdrrv.zip)
+  * [Documentation](https://github.com/Illuminousity/WorldRefill/blob/master/README.md)
+  * [Source Code](https://github.com/Illuminousity/WorldRefill)
 ----
 
 ## How to submit plugins
