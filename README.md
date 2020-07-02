@@ -89,6 +89,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.2.1](https://files.catbox.moe/ycxf8h.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
+* [Auto Team](https://github.com/dredhorse/tShockAutoTeam) by Don Redhorse
+  * Joins the players to a team based on permissions
+  * Tested on TShock 4.4.0 Pre-12.
+  * [Download Version 1.0.0](https://files.catbox.moe/1ouznb.dll)
+  * [Documentation and SourceCode](https://github.com/dredhorse/tShockAutoTeam)
   
 ### Community Maintained Plugins 
 * [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
