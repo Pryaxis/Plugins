@@ -89,6 +89,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.2.1](https://files.catbox.moe/ycxf8h.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
+
   
 ### Community Maintained Plugins 
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
@@ -146,6 +147,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 2.1.3](https://files.catbox.moe/3fdrrv.zip)
   * [Documentation](https://github.com/Illuminousity/WorldRefill/blob/master/README.md)
   * [Source Code](https://github.com/Illuminousity/WorldRefill)
+* [Auto Team](https://github.com/dredhorse/tShockAutoTeam) by Don Redhorse
+   * Joins the players to a team based on permissions
+   * Tested on TShock 4.4.0 Pre-12.
+   * [Download Version 1.0.0](https://files.catbox.moe/1ouznb.dll)
+   * [Documentation and SourceCode](https://github.com/dredhorse/tShockAutoTeam)
 ----
 
 ## How to submit plugins
