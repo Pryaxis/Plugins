@@ -91,6 +91,37 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/ZakFahey/SmartRegions)
   
 ### Community Maintained Plugins 
+* [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
+  * Automatically register new users on SSC enabled servers.
+  * Built on TShock 4.4.0 Pre-11.
+  * [Download](https://files.catbox.moe/819j8p.zip)
+  * [Source code](https://github.com/moisterrific/TShockAutoRegister)
+* [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
+  * A calculator plugin.
+  * Built on TShock 4.4.0 Pre-11.
+  * [Download 1.0.0.0](https://files.catbox.moe/nkieg4.zip)
+  * [Source code](https://github.com/edg-l/Calculator)
+* [PlayerInfo](https://github.com/Brycey92/PlayerInfo/tree/terraria-1.4) by [ParadonX](https://github.com/ParadonX), updated by [Brycey92](https://github.com/Brycey92)
+  * A player info modifier/checker.
+  * Built on TShock 4.4.0 Pre-11.
+  * [Download 1.8](https://files.catbox.moe/fwqfl5.zip)
+  * [Source code](https://github.com/Brycey92/PlayerInfo/tree/terraria-1.4)
+* [SummonLimit](https://github.com/moisterrific/SummonLimit) by [Newy](https://github.com/newyrose), updated by [moisterrific](https://github.com/moisterrific)
+  * Prevents summon hacking.
+  * Built on TShock 4.4.0 Pre-11.
+  * [Download](https://files.catbox.moe/mr52x7.zip)
+  * [Source code](https://github.com/moisterrific/SummonLimit)
+* [TshockLogs_Explosives](https://github.com/moisterrific/TshockLogs_Explosives) by [slzn](https://github.com/slzn), updated by [moisterrific](https://github.com/moisterrific)
+  * Helps to track explosives(Bomb, Dynamite, etc... ) usage.
+  * Built on TShock 4.4.0 Pre-11.
+  * [Download](https://files.catbox.moe/flnmuh.zip)
+  * [Documentation](https://github.com/moisterrific/TshockLogs_Explosives#config)
+  * [Source code](https://github.com/slzn/TshockLogs_Explosives)
+* [WorldEdit](https://github.com/Brycey92/WorldEdit)
+  * Adds mass tile editing commands.
+  * Built on TShock 4.4.0 Pre-11.
+  * [Download 1.8.0](https://files.catbox.moe/2h14dl.zip)
+  * [Source code](https://github.com/Brycey92/WorldEdit)
 * [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
   * Prevents players from losing HP when spamming the Rod of Discord.
   * Built and tested on TShock 4.4.0 Pre-11.
