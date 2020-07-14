@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://tshock.co/newlogo.png" alt="TShock for Terraria"><br />
   <a href="https://github.com/TShock/TShock">
     Main Project
@@ -11,6 +11,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
 ## List of all plugins! 🧪☕️⚡️
 
+* JourneyMixer
+  * Allows journey mode characters to join a non journey mode world.
+  * Built and tested on prerelease 12.
+  * Source https://github.com/Rustly/JourneyMixer
+  * Download https://files.catbox.moe/myk8dt.dll
 * InfiniteChestsV3 by Zaicon
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Tested on TShock 4.4.0 Pre-2.
