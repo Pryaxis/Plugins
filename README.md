@@ -31,7 +31,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Rofle's AdvancedWarpplates but actually including a build in the repo. (https://github.com/popstarfreas/AdvancedWarpplates)
   * Tested on TShock 4.4.0 Pre-10.
   * [Download](https://files.catbox.moe/5evaiv.dll)
-  * [Source code](https://github.com/Rustly/ZAdminCmds)
+  * [Source code](https://github.com/Rustly/AdvancedWarpplates)
 * ShortCommands
   * Zaicon's ShortCommands updated to 1.4. (https://github.com/Zaicon/ShortCommands)
   * Tested on TShock 4.4.0 Pre-10.
