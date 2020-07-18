@@ -32,8 +32,8 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 * FACommands by MineBartekSA
   * Originally created by Hiarni & Zaicon
   * Fun and Admin Commands
-  * Tested on TShock 4.4.0 Pre-6.
-  * [Download Version 1.7.0](https://files.catbox.moe/w8y875.dll)
+  * Tested on TShock 4.4.0 Pre-12.
+  * [Download Version 1.7.1](https://files.catbox.moe/elsv0g.dll)
   * [Source code](https://github.com/MineBartekSA/FACommands)
 * TerraJump by MineBartekSA
   * Simple plugin that adds JumpPads
