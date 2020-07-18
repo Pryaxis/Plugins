@@ -89,6 +89,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.2.1](https://files.catbox.moe/ycxf8h.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
+* [Normal Boss Bags](https://github.com/Quinci135/NormalBossBags) by Quinci
+  * Makes normal mode bosses drop treasure bags as if it were expert mode
+  * Built and tested on TShock 4.4.0 Pre-12
+  * [Download Version 1.0](https://files.catbox.moe/647789.zip)
+  * [Source code](https://github.com/Quinci135/NormalBossBags)
 
   
 ### Community Maintained Plugins 
