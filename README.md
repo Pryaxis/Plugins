@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://tshock.co/newlogo.png" alt="TShock for Terraria"><br />
   <a href="https://github.com/TShock/TShock">
     Main Project
@@ -11,12 +11,37 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
 ## List of all plugins! 🧪☕️⚡️
 
+* JourneyMixer
+  * Allows journey mode characters to join a non journey mode world.
+  * Built and tested on prerelease 12.
+  * Source https://github.com/Rustly/JourneyMixer
+  * Download https://files.catbox.moe/myk8dt.dll
 * InfiniteChestsV3 by Zaicon
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Tested on TShock 4.4.0 Pre-2.
   * [Download Version 1.3.0.0](https://files.catbox.moe/qqdffp.dll)
   * [Documentation](https://github.com/Zaicon/InfiniteChestsV3)
   * [Source code](https://github.com/Zaicon/InfiniteChestsV3)
+* ZAdminCmds
+  * Zaicon's ZAdminCmds updated to 1.4. (https://github.com/Zaicon/ZAdminCmds)
+  * Tested on TShock 4.4.0 Pre-10.
+  * [Download](https://files.catbox.moe/gvqzxu.dll)
+  * [Source code](https://github.com/Rustly/ZAdminCmds)
+* AdvancedWarpplates
+  * Rofle's AdvancedWarpplates but actually including a build in the repo. (https://github.com/popstarfreas/AdvancedWarpplates)
+  * Tested on TShock 4.4.0 Pre-10.
+  * [Download](https://files.catbox.moe/5evaiv.dll)
+  * [Source code](https://github.com/Rustly/AdvancedWarpplates)
+* ShortCommands
+  * Zaicon's ShortCommands updated to 1.4. (https://github.com/Zaicon/ShortCommands)
+  * Tested on TShock 4.4.0 Pre-10.
+  * [Download](https://files.catbox.moe/3wdlk7.dll)
+  * [Source code](https://github.com/Rustly/ShortCommands)
+* CloneNotify
+  * Zaicon's CloneNotify updated to 1.4. (https://github.com/Zaicon/CloneNotify)
+  * Tested on TShock 4.4.0 Pre-10.
+  * [Download](https://files.catbox.moe/sqq56g.dll)
+  * [Source code](https://github.com/Rustly/CloneNotify)
 * CustomMediumcore by Miffyli
   * Ease Mediumcore by selecting which items are dropped upon death.
   * Requirements: Server-side characters enabled. Players must have "Casual" difficulty.
