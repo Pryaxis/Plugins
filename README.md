@@ -194,7 +194,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
    * [Download Version 1.0.0](https://files.catbox.moe/1ouznb.dll)
    * [Documentation and SourceCode](https://github.com/dredhorse/tShockAutoTeam)
 * [TShockPrometheus](https://github.com/swantzter/tshock-prometheus) by [Swantzter](https://github.com/swantzter)
-  * Exposes statistics about the server to prometheus
+  * Exposes the current player count on the server to prometheus
   * Tested on TShock 4.4.0 Pre-15.
   * [Download Version 1.0.0](https://files.catbox.moe/lfi2sm.zip)
   * [Source code](https://github.com/swantzter/tshock-prometheus)
