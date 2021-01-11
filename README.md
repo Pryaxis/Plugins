@@ -124,7 +124,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Built on TShock 4.4.0 Pre-12
   * [Download Version 1.1](https://files.catbox.moe/bmm85t.zip)
   * [Documentation/Source Code](https://github.com/bippity/AFK)
-  * [Buff Emoticons](https://github.com/Dylanswaggerino/Buff-Emotions) by The Killer [NL]
+* [Buff Emoticons](https://github.com/Dylanswaggerino/Buff-Emotions) by The Killer [NL]
   * Gives the user a in-game buff for 46 seconds!
   * Tested on TShock 4.4.0 Pre-15.
   * [Download Version 2.1](https://files.catbox.moe/ta8nc9.dll)
