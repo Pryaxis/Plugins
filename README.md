@@ -60,10 +60,10 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.4.0 Pre-12.
   * [Download Version 1.7.1](https://files.catbox.moe/elsv0g.dll)
   * [Source code](https://github.com/MineBartekSA/FACommands)
-* [Terracord](https://github.com/FragLand/terracord) by ldilley
+* [Terracord](https://github.com/FragLand/terracord) by [ldilley](https://github.com/ldilley)
   * A Discord <-> Terraria bridge plugin for TShock
-  * Tested on TShock 4.4.0 Pre-8.
-  * [Download Version 1.2.0](https://files.catbox.moe/vajqmh.zip)
+  * Tested on TShock 4.4.0 Pre-15.
+  * [Download Version 1.2.2](https://files.catbox.moe/x1f6ct.zip)
   * [Documentation](https://github.com/FragLand/terracord/blob/master/.github/README.md)
   * [Source code](https://github.com/FragLand/terracord)
 * TerraJump by MineBartekSA
