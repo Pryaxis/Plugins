@@ -198,6 +198,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.4.0 Pre-15.
   * [Download Version 1.0.0](https://files.catbox.moe/lfi2sm.zip)
   * [Source code](https://github.com/swantzter/tshock-prometheus)
+* [TShock Server REST Mobile](https://github.com/KohlsAdrian/tshock_server_rest) by [647](https://github.com/KohlsAdrian)
+  * Manage players/users, bans, world, groups and server directly from your mobile device.
+  * Tested on TShock 4.4.0 Pre-15.
+  * [Android APKs](https://github.com/KohlsAdrian/tshock_server_rest_client/tags) (iOS Should build directly from MacOS using Flutter SDK and XCode installed)
+  * [Source code Flutter App](https://github.com/KohlsAdrian/tshock_server_rest_client)
+  * [Source code Dart Wrapper (Doc)](https://github.com/KohlsAdrian/tshock_server_rest)
 ----
 
 ## How to submit plugins
