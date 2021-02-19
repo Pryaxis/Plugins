@@ -12,10 +12,10 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 ## List of all plugins! 🧪☕️⚡️
 
 * JourneyMixer
-  * Allows journey mode characters to join a non journey mode world.
-  * Built and tested on prerelease 12.
+  * Allows journey mode characters to join a non journey mode world and now visa versa.
+  * Tested on prerelease 15.
   * Source https://github.com/Rustly/JourneyMixer
-  * Download https://files.catbox.moe/myk8dt.dll
+  * Download https://files.catbox.moe/d9r1jr.dll
 * InfiniteChestsV3 by Zaicon
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Tested on TShock 4.4.0 Pre-2.
