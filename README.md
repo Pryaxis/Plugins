@@ -11,6 +11,16 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
 ## List of all plugins! 🧪☕️⚡️
 
+* Buildmode by nyan-ko & Nova4334
+  * Allows players to enter a permaday state without cave backgrounds, adds buffs & more!
+  * Tested on TShock 4.4.0 pre-15
+  * [Download](https://files.catbox.moe/lzbw31.dll)
+  * [Source code](https://github.com/Nova4334/Buildmode)
+* MapTP by Nova4334
+  * Allows players to teleport to any location on the map, by simply double clicking said location!
+  * Tested on TShock 4.4.0 pre-15
+  * [Download](https://files.catbox.moe/8cdd3x.dll)
+  * [Source code](https://github.com/Nova4334/MapTP)
 * JourneyMixer
   * Allows journey mode characters to join a non journey mode world and now visa versa.
   * Tested on prerelease 15.
