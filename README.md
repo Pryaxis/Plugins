@@ -214,6 +214,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Android APKs](https://github.com/KohlsAdrian/tshock_server_rest_client/tags) (iOS Should build directly from MacOS using Flutter SDK and XCode installed)
   * [Source code Flutter App](https://github.com/KohlsAdrian/tshock_server_rest_client)
   * [Source code Dart Wrapper (Doc)](https://github.com/KohlsAdrian/tshock_server_rest)
+ * [Essentials+](https://github.com/QuiCM/EssentialsPlus) by [QuiCM](https://github.com/QuiCM) (and various others <3)
+  * Compatible with TShock v4.5.x
+  * Numerous 'essential' tools for enhancing gameplay & administration capabilities
+  * [Download](https://files.catbox.moe/2z23s9.dll)
+  * [Source](https://github.com/QuiCM/EssentialsPlus)
 ----
 
 ## How to submit plugins
