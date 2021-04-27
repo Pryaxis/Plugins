@@ -11,6 +11,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
 ## List of all plugins! 🧪☕️⚡️
 
+* [AdditionalPylons](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons-Plugin) by [Stealownz](https://github.com/Stealownz)
+  * Allows placing additional (infinite) pylons more than default Terraria limits
+  * Tested on TShock 4.5.2
+  * [Download Version 1.0.0.0](https://files.catbox.moe/2gsl9n.dll)
+  * [Source code](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons)
 * Buildmode by nyan-ko & Nova4334
   * Allows players to enter a permaday state without cave backgrounds, adds buffs & more!
   * Tested on TShock 4.4.0 pre-15
