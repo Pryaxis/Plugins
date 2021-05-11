@@ -99,8 +99,8 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Discord Server](https://discord.gg/s63fqsW)
 * Vanillafier
   * Sets up your server to run like the vanilla Terraria server in 1 easy command
-  * Built on TShock 4.4.0 Pre-8
-  * [Download](https://files.catbox.moe/24u8fb.dll)
+  * Built on TShock 4.5.0
+  * [Download](https://files.catbox.moe/cy8sca.zip)
   * [Source Code](https://github.com/Pryaxis/Vanillafier)
 * [Creative Mode](https://tshock.co/xf/index.php?resources/creative-mode.19/) by Bippity
   * A simple "Creative Mode" for players
