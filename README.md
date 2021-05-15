@@ -155,6 +155,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.0.3](https://files.catbox.moe/seefnu.zip)
   * [Documentation](https://github.com/moisterrific/CharacterReset/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/CharacterReset/blob/master/CharacterReset.cs)
+* [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows admins to become invisible to other players.
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download Version 1.2.0](https://files.catbox.moe/rh3myj.zip)
+  * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
 * [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
@@ -199,12 +205,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.2.0](https://files.catbox.moe/gocgdm.zip)
   * [Documentation](https://github.com/moisterrific/RodHealer/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/RodHealer/blob/master/Rodhealer/main.cs)
-* [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
-  * Allows admins to become invisible to other players.
-  * Built and tested on TShock 4.4.0 Pre-11.
-  * [Download Version 1.2.0](https://files.catbox.moe/wua495.zip)
-  * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
 * [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
   * Refill your world with structures and resources!
   * Built and tested on Tshock 4.4.0 Pre-11.
