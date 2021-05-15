@@ -147,7 +147,21 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
 
   
-### Community Maintained Plugins 
+### Community Maintained Plugins
+#### Updated for current TShock version
+* [Character Reset (SSC)](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows you to reset SSC player data without the hassle of database editing. 
+  * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
+  * [Download Version 1.0.3](https://files.catbox.moe/seefnu.zip)
+  * [Documentation](https://github.com/moisterrific/CharacterReset/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/CharacterReset/blob/master/CharacterReset.cs)
+* [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
+  * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
+  * [Download Version 1.2.1](https://files.catbox.moe/5zjurx.zip)
+  * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
+#### Compatible with older TShock versions
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
   * Automatically register new users on SSC enabled servers.
   * Built on TShock 4.4.0 Pre-11.
@@ -191,12 +205,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.2.0](https://files.catbox.moe/wua495.zip)
   * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
-* [Character Reset [SSC]](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
-  * Allows you to reset SSC player data without the hassle of database editing. 
-  * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
-  * [Download Version 1.0.3](https://files.catbox.moe/seefnu.zip)
-  * [Documentation](https://github.com/moisterrific/CharacterReset/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/CharacterReset/blob/master/CharacterReset.cs)
 * [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
   * Refill your world with structures and resources!
   * Built and tested on Tshock 4.4.0 Pre-11.
