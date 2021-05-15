@@ -193,10 +193,10 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
 * [Character Reset [SSC]](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
   * Allows you to reset SSC player data without the hassle of database editing. 
-  * Built and tested on TShock 4.4.0 Pre-11.
-  * [Download Version 2.0.0](https://files.catbox.moe/mbqvez.zip)
-  * [Documentation](https://github.com/moisterrific/CharacterReset2/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/CharacterReset2/tree/master/CharacterResetTest1/CharacterResetTest1)
+  * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
+  * [Download Version 1.0.3](https://files.catbox.moe/seefnu.zip)
+  * [Documentation](https://github.com/moisterrific/CharacterReset/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/CharacterReset/blob/master/CharacterReset.cs)
 * [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
   * Refill your world with structures and resources!
   * Built and tested on Tshock 4.4.0 Pre-11.
