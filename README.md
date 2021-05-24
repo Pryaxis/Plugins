@@ -149,6 +149,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   
 ### Community Maintained Plugins
 #### Updated for current TShock version
+* [NPC Blocker](https://github.com/moisterrific/NPCBlocker2) by [Olink](https://github.com/Olink), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows you to block certain NPCs from spawning in the world.
+  * Built and tested on TShock 4.5.3.0
+  * [Download Version 2.0.0](https://files.catbox.moe/tfy6tb.zip)
+  * [Documentation](https://github.com/moisterrific/NPCBlocker2/blob/main/README.md)
+  * [Source Code](https://github.com/moisterrific/NPCBlocker2/blob/main/NPCBlocker/NPCBlocker.cs)
 * [Character Reset (SSC)](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
   * Allows you to reset SSC player data without the hassle of database editing. 
   * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
