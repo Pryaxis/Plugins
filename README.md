@@ -148,7 +148,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
   
 ### Community Maintained Plugins
-#### Updated for current TShock version
+#### Updated for current TShock version (4.5.3.0 Blood Moon edition)
+* [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
+  * Automatically register new users on servers requiring login.
+  * Built and tested on TShock 4.5.3.0.
+  * [Download](https://files.catbox.moe/jlt9c5.zip)
+  * [Source code](https://github.com/moisterrific/TShockAutoRegister)
 * [NPC Blocker](https://github.com/moisterrific/NPCBlocker2) by [Olink](https://github.com/Olink), updated by [moisterrific](https://github.com/moisterrific)
   * Allows you to block certain NPCs from spawning in the world.
   * Built and tested on TShock 4.5.3.0
@@ -174,11 +179,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
 #### Compatible with older TShock versions
-* [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
-  * Automatically register new users on SSC enabled servers.
-  * Built on TShock 4.4.0 Pre-11.
-  * [Download](https://files.catbox.moe/819j8p.zip)
-  * [Source code](https://github.com/moisterrific/TShockAutoRegister)
 * [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
   * A calculator plugin.
   * Built on TShock 4.4.0 Pre-11.
