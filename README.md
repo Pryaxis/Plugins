@@ -149,9 +149,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   
 ### Community Maintained Plugins 
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
-  * Automatically register new users on SSC enabled servers.
-  * Built on TShock 4.4.0 Pre-11.
-  * [Download](https://files.catbox.moe/819j8p.zip)
+  * Temporarily removed due to a secure code review failure. A defect in the design by @brian91292 would lead to generating predictable passwords that could be easily obtained by malicious servers.
   * [Source code](https://github.com/moisterrific/TShockAutoRegister)
 * [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
   * A calculator plugin.
