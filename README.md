@@ -11,21 +11,26 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
 ## List of all plugins! 🧪☕️⚡️
 
+* [TPAccept](https://github.com/Rozen4334/TPAccept/releases/tag/1.0) by Rozen4334 & nyan-ko
+  * A replacement for the base TP feature, inspired by Minecrafts '/tpa'
+  * Tested on TShock 4.5.2
+  * [Download](https://files.catbox.moe/8d5oyp.dll)
+  * [Source code](https://github.com/Rozen4334/TPAccept)
+* [Buildmode](https://github.com/Rozen4334/Buildmode/releases/tag/v1.2) by nyan-ko & Rozen4334
+  * Allows players to enter a permaday state without cave backgrounds, adds buffs & more!
+  * Tested on TShock 4.5.2
+  * [Download](https://files.catbox.moe/3ukc93.dll)
+  * [Source code](https://github.com/Rozen4334/Buildmode)
+* [MapTP](https://github.com/Rozen4334/MapTP/releases/tag/v1.0) by Rozen4334
+  * Allows players to teleport to any location on the map, by simply double clicking said location!
+  * Tested on TShock 4.5.2
+  * [Download](https://files.catbox.moe/8cdd3x.dll)
+  * [Source code](https://github.com/Rozen4334/MapTP)
 * [AdditionalPylons](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons-Plugin) by [Stealownz](https://github.com/Stealownz)
   * Allows placing additional (infinite) pylons more than default Terraria limits
   * Tested on TShock 4.5.2
   * [Download Version 1.0.0.0](https://files.catbox.moe/2gsl9n.dll)
   * [Source code](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons)
-* Buildmode by nyan-ko & Nova4334
-  * Allows players to enter a permaday state without cave backgrounds, adds buffs & more!
-  * Tested on TShock 4.4.0 pre-15
-  * [Download](https://files.catbox.moe/lzbw31.dll)
-  * [Source code](https://github.com/Nova4334/Buildmode)
-* MapTP by Nova4334
-  * Allows players to teleport to any location on the map, by simply double clicking said location!
-  * Tested on TShock 4.4.0 pre-15
-  * [Download](https://files.catbox.moe/8cdd3x.dll)
-  * [Source code](https://github.com/Nova4334/MapTP)
 * JourneyMixer
   * Allows journey mode characters to join a non journey mode world and now visa versa.
   * Tested on prerelease 15.
@@ -148,6 +153,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 
   
 ### Community Maintained Plugins 
+* [RegionVision](https://github.com/Rozen4334/RegionVision/releases/tag/1.3) by [Andrio Celos](https://github.com/AndrioCelos), updated and rebranded by Rozen4334
+  * Shows region borders to users, by specifying a region or by triggering it for the entire world.
+  * Tested on TShock 4.5.2, built on TShock 4.4.0.
+  * [Download](https://files.catbox.moe/1bmlkz.dll)
+  * [Source code](https://github.com/Rozen4334/RegionVision)
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
   * Temporarily removed due to a secure code review failure. A defect in the design by @brian91292 would lead to generating predictable passwords that could be easily obtained by malicious servers.
   * [Source code](https://github.com/moisterrific/TShockAutoRegister)
