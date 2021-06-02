@@ -154,7 +154,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Allows crossplay to happen in terraria servers via packet handling and manipulation
   * Tested on TShock 4.5.3.
   * Extremely experimental, use at your own risk!
-  * [Download Version 1.1](https://files.catbox.moe/aucgg7.dll)
+  * [Download Version 1.2](https://files.catbox.moe/scqnps.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
   * Update `TerrariaServer.exe` in the `References` folder above if using TShock v4.5.3
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
