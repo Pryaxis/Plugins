@@ -167,6 +167,31 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
   * Temporarily removed due to a secure code review failure. A defect in the design by @brian91292 would lead to generating predictable passwords that could be easily obtained by malicious servers.
   * [Source code](https://github.com/moisterrific/TShockAutoRegister)
+* [NPC Blocker](https://github.com/moisterrific/NPCBlocker2) by [Olink](https://github.com/Olink), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows you to block certain NPCs from spawning in the world.
+  * Built and tested on TShock 4.5.3.0
+  * [Download Version 2.0.0](https://files.catbox.moe/tfy6tb.zip)
+  * [Documentation](https://github.com/moisterrific/NPCBlocker2/blob/main/README.md)
+  * [Source Code](https://github.com/moisterrific/NPCBlocker2/blob/main/NPCBlocker/NPCBlocker.cs)
+* [Character Reset (SSC)](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows you to reset SSC player data without the hassle of database editing. 
+  * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
+  * [Download Version 1.0.3](https://files.catbox.moe/seefnu.zip)
+  * [Documentation](https://github.com/moisterrific/CharacterReset/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/CharacterReset/blob/master/CharacterReset.cs)
+* [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows admins to become invisible to other players.
+  * Built and tested on TShock 4.4.0 Pre-11.
+  * [Download Version 1.2.0](https://files.catbox.moe/rh3myj.zip)
+  * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
+* [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
+  * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
+  * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
+  * [Download Version 1.2.1](https://files.catbox.moe/5zjurx.zip)
+  * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
+  * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
+#### Compatible with older TShock versions
 * [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
   * A calculator plugin.
   * Built on TShock 4.4.0 Pre-11.
@@ -199,18 +224,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.2.0](https://files.catbox.moe/gocgdm.zip)
   * [Documentation](https://github.com/moisterrific/RodHealer/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/RodHealer/blob/master/Rodhealer/main.cs)
-* [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
-  * Allows admins to become invisible to other players.
-  * Built and tested on TShock 4.4.0 Pre-11.
-  * [Download Version 1.2.0](https://files.catbox.moe/wua495.zip)
-  * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
-* [Character Reset [SSC]](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
-  * Allows you to reset SSC player data without the hassle of database editing. 
-  * Built and tested on TShock 4.4.0 Pre-11.
-  * [Download Version 2.0.0](https://files.catbox.moe/mbqvez.zip)
-  * [Documentation](https://github.com/moisterrific/CharacterReset2/blob/master/README.md)
-  * [Source Code](https://github.com/moisterrific/CharacterReset2/tree/master/CharacterResetTest1/CharacterResetTest1)
 * [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
   * Refill your world with structures and resources!
   * Built and tested on Tshock 4.4.0 Pre-11.
