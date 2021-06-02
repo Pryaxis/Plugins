@@ -130,8 +130,8 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/ZakFahey/Team-Commands)
 * [Smart Regions](https://github.com/ZakFahey/SmartRegions) by GameRoom
   * Run programmable commands when a player is in a region.
-  * Built on TShock 4.4.0 Pre-8
-  * [Download Version 1.2.1](https://files.catbox.moe/ycxf8h.dll)
+  * Compatible with TShock 4.5.x
+  * [Download Version 1.3.0](https://files.catbox.moe/1rgaij.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
 * [Normal Boss Bags](https://github.com/Quinci135/NormalBossBags) by Quinci
