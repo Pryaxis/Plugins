@@ -152,11 +152,10 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
 * [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
   * Allows crossplay to happen in terraria servers via packet handling and manipulation
-  * Tested on TShock 4.5.3.
-  * Extremely experimental, use at your own risk, may corrupt worlds.
-  * [Download Version 1.1](https://files.catbox.moe/qgfejh.dll)
+  * Tested on TShock 4.5.4.
+  * Extremely experimental, use at your own risk!
+  * [Download Version 1.2.1](https://files.catbox.moe/cvjtow.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
-  * Update `TerrariaServer.exe` in the `References` folder above if using TShock v4.5.3
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
   
 ### Community Maintained Plugins 
