@@ -155,7 +155,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.5.4.
   * Extremely experimental, use at your own risk!
   * Please contact Moneylover3246#0322 on discord if there are any crashing issues!
-  * [Download Version 1.3](https://files.catbox.moe/3gli5e.dll)
+  * [Download Version 1.3.1](https://files.catbox.moe/n9o54b.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
   
