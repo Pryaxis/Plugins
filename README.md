@@ -15,7 +15,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Disallows inappropriate names, nonalphanumerical, +23 character names & an configurable amount of spaces in a name. 
   * Most of this is configurable in the config file, filtered statements can be added and removed ingame.
   * Tested on TShock 4.5.4
-  * [Download](https://files.catbox.moe/pxipwz.zip)
+  * [Download](https://files.catbox.moe/zwjwlh.zip)
   * [Source code](https://github.com/Rozen4334/NameValidator)
 * [TPAccept](https://github.com/Rozen4334/TPAccept/releases/tag/1.0) by Rozen4334 & nyan-ko
   * A replacement for the base TP feature, inspired by Minecrafts '/tpa'
