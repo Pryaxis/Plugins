@@ -153,8 +153,9 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 * [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
   * Allows crossplay to happen in terraria servers via packet handling and manipulation
   * Tested on TShock 4.5.4.
-  * Extremely experimental, use at your own risk!
-  * [Download Version 1.2.1](https://files.catbox.moe/cvjtow.dll)
+  * Please contact Moneylover3246#0322 on discord if there are any crashing issues!
+  * [Download v1.3.3 - Desktop](https://files.catbox.moe/1p1j8r.dll)
+  * [Download v1.0.0 - Mobile](https://files.catbox.moe/x4sib0.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
   
