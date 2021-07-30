@@ -34,8 +34,8 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/Rozen4334/MapTP)
 * [AdditionalPylons](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons-Plugin) by [Stealownz](https://github.com/Stealownz)
   * Allows placing additional (infinite) pylons more than default Terraria limits
-  * Tested on TShock 4.5.2
-  * [Download Version 1.0.0.0](https://files.catbox.moe/2gsl9n.dll)
+  * Tested on TShock 4.5.4
+  * [Download Version 1.1.0.0](https://files.catbox.moe/hx1lqm.dll)
   * [Source code](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons)
 * JourneyMixer
   * Allows journey mode characters to join a non journey mode world and now visa versa.
