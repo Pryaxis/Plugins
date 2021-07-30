@@ -18,7 +18,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.5](https://files.catbox.moe/bd1dkp.dll)
   * [Documentation](https://www.bbstr.net/r/75/)
   * [Source code](https://github.com/Megghy/MultiSCore/)
-
+* [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (xPanini)](https://github.com/xPanini)
+  * Highly customizable Terraria Chat Relay with multiple Discord server support
+  * Tested on TShock 4.5.5.
+  * [Download Version 0.9.2](https://files.catbox.moe/avy37t.zip)
+  * [Documentation](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki)
+  * [Source code](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
 * [NameValidator](https://github.com/Rozen4334/NameValidator/releases/tag/v1.3) by Rozen4334
   * Disallows inappropriate names, nonalphanumerical, +23 character names & an configurable amount of spaces in a name. 
   * Most of this is configurable in the config file, filtered statements can be added and removed ingame.
@@ -107,12 +112,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.3.0](https://files.catbox.moe/lxcqqy.zip)
   * [Documentation](https://github.com/FragLand/terracord/blob/master/.github/README.md)
   * [Source code](https://github.com/FragLand/terracord)
- * [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (xPanini)](https://github.com/xPanini)
-  * Highly customizable Terraria Chat Relay with multiple Discord server support
-  * Tested on TShock 4.5.5.
-  * [Download Version 0.9.2](https://files.catbox.moe/avy37t.zip)
-  * [Documentation](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki)
-  * [Source code](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
+
 * TerraJump by MineBartekSA
   * Simple plugin that adds JumpPads
   * Tested on TShock 4.4.0 Pre-15.
