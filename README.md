@@ -53,6 +53,13 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.4.0 Pre-10.
   * [Download](https://files.catbox.moe/gvqzxu.dll)
   * [Source code](https://github.com/Rustly/ZAdminCmds)
+* [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
+  * Allows crossplay to happen in terraria servers via packet handling and manipulation
+  * Tested on TShock 4.5.4.
+  * [Download v1.4.2.1 - Desktop](https://files.catbox.moe/vrszug.dll)
+  * [Download v1.1.1 - Mobile](https://files.catbox.moe/jaxve6.dll)
+  * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
+  * [Source code](https://github.com/Moneylover3246/Crossplay/)
 * AdvancedWarpplates
   * Rofle's AdvancedWarpplates but actually including a build in the repo. (https://github.com/popstarfreas/AdvancedWarpplates)
   * Tested on TShock 4.4.0 Pre-10.
@@ -156,14 +163,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 2.1](https://files.catbox.moe/ta8nc9.dll)
   * [Documentation](https://github.com/Dylanswaggerino/Buff-Emotions/blob/master/README.md)
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
-* [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
-  * Allows crossplay to happen in terraria servers via packet handling and manipulation
-  * Tested on TShock 4.5.4.
-  * Please contact Moneylover3246#0322 on discord if there are any crashing issues!
-  * [Download v1.3.3 - Desktop](https://files.catbox.moe/1p1j8r.dll)
-  * [Download v1.0.0 - Mobile](https://files.catbox.moe/x4sib0.dll)
-  * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
-  * [Source code](https://github.com/Moneylover3246/Crossplay/)
   
 ### Community Maintained Plugins 
 * [RegionVision](https://github.com/Rozen4334/RegionVision/releases/tag/1.3) by [Andrio Celos](https://github.com/AndrioCelos), updated and rebranded by Rozen4334
