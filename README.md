@@ -10,7 +10,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 ----
 
 ## List of all plugins! 🧪☕️⚡️
-
 * [MultiSCore](https://github.com/Megghy/MultiSCore/releases/) by Megghy
   * An easy-to-use Terraria multi-world plugin that allows you to teleport directly to other servers in-game and back via a proxy
   * You can adjust the plugin language in the configuration file or modify it to your preferred sentence
@@ -24,6 +23,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 0.9.2](https://files.catbox.moe/avy37t.zip)
   * [Documentation](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki)
   * [Source code](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
+* [WorldMapper](https://github.com/drunderscore/WorldMapper) by Dr. Underscore
+  * Allows generation of a PNG map of the entire world.
+  * Tested on TShock 4.5.2
+  * [Download](https://files.catbox.moe/7qfpmf.zip)
+  * [Source code](https://github.com/drunderscore/WorldMapper)
 * [NameValidator](https://github.com/Rozen4334/NameValidator/releases/tag/v1.3) by Rozen4334
   * Disallows inappropriate names, nonalphanumerical, +23 character names & an configurable amount of spaces in a name. 
   * Most of this is configurable in the config file, filtered statements can be added and removed ingame.
