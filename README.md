@@ -10,6 +10,13 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [ListPluginsPlugin](https://github.com/Arthri/ListPluginsPlugin) by Arthri
+  * Provides commands for listing the currently loaded plugins.
+  * Tested on TShock 4.5.5
+  * [Download Version 1.0.0](https://files.catbox.moe/5oyxtc.zip)
+  * [Download Version 1.0.0(Github)](https://github.com/Arthri/ListPluginsPlugin/releases/download/1.0.0/ListPluginsPlugin.zip)
+  * [Documentation](https://github.com/Arthri/ListPluginsPlugin#listpluginsplugin)
+  * [Source code](https://github.com/Arthri/ListPluginsPlugin)
 * [MultiSCore](https://github.com/Megghy/MultiSCore/releases/) by Megghy
   * An easy-to-use Terraria multi-world plugin that allows you to teleport directly to other servers in-game and back via a proxy
   * You can adjust the plugin language in the configuration file or modify it to your preferred sentence
