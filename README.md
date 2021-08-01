@@ -17,10 +17,10 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Download Version 1.5](https://files.catbox.moe/bd1dkp.dll)
   * [Documentation](https://www.bbstr.net/r/75/)
   * [Source code](https://github.com/Megghy/MultiSCore/)
-* [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (xPanini)](https://github.com/xPanini)
+* [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (Panini)](https://github.com/xPanini)
   * Highly customizable Terraria Chat Relay with multiple Discord server support
   * Tested on TShock 4.5.5.
-  * [Download Version 0.9.2](https://files.catbox.moe/avy37t.zip)
+  * [Download Version 0.9.3](https://files.catbox.moe/s6u3lp.zip)
   * [Documentation](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki)
   * [Source code](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
 * [WorldMapper](https://github.com/drunderscore/WorldMapper) by Dr. Underscore
