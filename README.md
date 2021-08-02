@@ -14,7 +14,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Provides commands for listing the currently loaded plugins.
   * Tested on TShock 4.5.5
   * [Download Version 1.0.0](https://files.catbox.moe/5oyxtc.zip)
-  * [Download Version 1.0.0(Github)](https://github.com/Arthri/ListPluginsPlugin/releases/download/1.0.0/ListPluginsPlugin.zip)
   * [Documentation](https://github.com/Arthri/ListPluginsPlugin#listpluginsplugin)
   * [Source code](https://github.com/Arthri/ListPluginsPlugin)
 * [MultiSCore](https://github.com/Megghy/MultiSCore/releases/) by Megghy
