@@ -10,6 +10,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
+  * A very simple IRC<->Terraria chat bridge.
+  * Tested on TShock 4.5.5.
+  * [Download Version 1.0.0](https://files.catbox.moe/9sufi0.zip)
+  * [Source code](https://github.com/lemon-sh/IRCrarria)
 * [ListPluginsPlugin](https://github.com/Arthri/ListPluginsPlugin) by Arthri
   * Provides commands for listing the currently loaded plugins.
   * Tested on TShock 4.5.5
