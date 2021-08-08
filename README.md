@@ -123,11 +123,10 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/MineBartekSA/FACommands)
 * [Terracord](https://github.com/FragLand/terracord) by [ldilley](https://github.com/ldilley)
   * A Discord <-> Terraria bridge plugin for TShock
-  * Tested on TShock 4.5.1.
-  * [Download Version 1.3.0](https://files.catbox.moe/lxcqqy.zip)
+  * Tested on TShock 4.5.5.
+  * [Download Version 1.3.1](https://files.catbox.moe/u9wrwm.zip)
   * [Documentation](https://github.com/FragLand/terracord/blob/master/.github/README.md)
   * [Source code](https://github.com/FragLand/terracord)
-
 * TerraJump by MineBartekSA
   * Simple plugin that adds JumpPads
   * Tested on TShock 4.4.0 Pre-15.
