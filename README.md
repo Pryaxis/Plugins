@@ -10,6 +10,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [ChatManager](https://github.com/Rozen4334/ChatManager) by Rozen4334
+  * A chat & username checker plugin that offers lots of configuration & lots of features.
+  * Tested on TShock 4.5.5.
+  * [Download](https://files.catbox.moe/5tna1j.zip)
+  * [Source code](https://github.com/Rozen4334/ChatManager)
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
   * A very simple IRC<->Terraria chat bridge.
   * Tested on TShock 4.5.5.
@@ -39,12 +44,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.5.2
   * [Download](https://files.catbox.moe/7qfpmf.zip)
   * [Source code](https://github.com/drunderscore/WorldMapper)
-* [NameValidator](https://github.com/Rozen4334/NameValidator/releases/tag/v1.3) by Rozen4334
-  * Disallows inappropriate names, nonalphanumerical, +23 character names & an configurable amount of spaces in a name. 
-  * Most of this is configurable in the config file, filtered statements can be added and removed ingame.
-  * Tested on TShock 4.5.4
-  * [Download](https://files.catbox.moe/zwjwlh.zip)
-  * [Source code](https://github.com/Rozen4334/NameValidator)
 * [TPAccept](https://github.com/Rozen4334/TPAccept/releases/tag/1.0) by Rozen4334 & nyan-ko
   * A replacement for the base TP feature, inspired by Minecrafts '/tpa'
   * Tested on TShock 4.5.2
