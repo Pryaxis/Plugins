@@ -13,6 +13,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 * [ChatManager](https://github.com/Rozen4334/ChatManager) by Rozen4334
   * A chat & username checker plugin that offers lots of configuration & lots of features.
   * Tested on TShock 4.5.5.
+  * NOTE: Please remove NameValidator as this replaces & upgrades that plugin.
   * [Download](https://files.catbox.moe/5tna1j.zip)
   * [Source code](https://github.com/Rozen4334/ChatManager)
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
