@@ -10,6 +10,11 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [GoodPro712](https://github.com/GoodPro712)
+  * Automatically assigns players a configurable team on world join.
+  * Tested on TShock 4.5.5
+  * [Download Version 1.0.0](https://files.catbox.moe/14tcj8.dll) (`AutoTeam.dll`)
+  * [Source code](https://github.com/TerraTrapezium/AutoTeam)
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
   * A very simple IRC<->Terraria chat bridge.
   * Tested on TShock 4.5.5.
