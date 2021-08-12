@@ -5,7 +5,7 @@
   </a>
 </p>
 
-This is the TShock plugin repository. It collects links to all plugins in the ecosystem, and whether or not they're updated, and what they do. The plugin download links here have been looked over by TShock team members and are probably okay to run. Even still, you should always be skeptical about downloading and running things from the Internet.
+This is the TShock plugin repository. All plugins from catbox have been analyzed by manual review processes that may not be perfect. While we believe these files are safe to run, we cannot guarantee a perfect review. All plugins undergo decompilation-based review analysis, but some plugins undergo additional scrutiny.
 
 ----
 
@@ -198,7 +198,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
   
 ### Community Maintained Plugins 
-* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v4.5.5) by Nix studios & Anzhelika, maintained by Rozen4334.
+* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v4.5.5) by Nyx Studios & Anzhelika, maintained by Rozen4334.
   * Massive grand-scheme tile edits across the entire map, now with documentation!
   * Tested on TShock 4.5.5.
   * [Download](https://files.catbox.moe/upwhtl.dll)
@@ -308,6 +308,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 6. Don't remove anything that isn't yours and don't change anything you didn't already add.
 7. When your plugin is approved, it will be added to the list.
 8. When you need to update your plugin, change the version number or other attributes, upload to [Catbox](https://catbox.moe/), and then re-submit your plugin.
+9. New plugins can appear at the top of the list. You are not guaranteed to be at the top of the list for long. If you comment on whether or not you should or shouldn't be placed at the top of the list, you will be placed not at the top of the list. You are forbidden from 'renaming' a plugin to a different name and resubmitting as a new plugin to appear at the top of the list. If we suspect that you have done this, you will be moved to the bottom of the list.
 
 This is the sample template:
 
@@ -337,6 +338,19 @@ The one thing you cannot do is link to a non-Catbox download link. It's fine if 
 ### What if plugin reviews are taking forever?
 If your plugin hasn't been reviewed in 1 day (give or take a few hours), please send a message to particles#0015 in Discord and a message to argo@hey.com. You will either get $10 US or a Discord Nitro subscription as reward for being significantly delayed. This offer only applies if you are not a TShock collaborator and if the pull-request contains only one plugin change. Please expect a response time of one day per plugin.
 
+### What plugins will get rejected?
+* If you update your plugin but don't update `AssemblyVersion` it will be rejected.
+* If you upload unknown assemblies that cannot be verified for security origin, it will be rejected.
+* If your plugin contains obvious security flaws, including SQL injection attacks, it will be rejected.
+
+### What can I do to help make my review fast?
+If you include 3rd party dependencies, please link to dependency download page on nuget. Please minimize the number of dependencies to a reasonable amount. If you submit an exorbotent amount of dependenices, we reserve the right to not review your plugin. If you modify a third party dependency please explicitly state this. Your plugin will be rejected if your third party dependency, e.g., `Discord.Web.dll`, exists on nuget but the assembly you submitted does not match a real version.
+
+Do not make more than one plugin submission per PR.
+
+### What happens if I submit malware?
+Your plugin will be rejected, your GitHub account will be reported, and you are required to pay $200 via Bitcoin for the inconvenience of dealing with you. Also, you will be permanently banned from all Pryaxis or TShock related services and your plugin(s) may be rendered inoperable by TShock.
+
 ### Changes
 
 These are the changes made to this page that aren't really plugin related.
@@ -345,6 +359,7 @@ These are the changes made to this page that aren't really plugin related.
 2. Updated system to include TShock test version. - May 18, 2020.
 3. Add slow plugin review scheme. - June 18, 2020.
 4. Plugin slowness scheme revised to require one plugin per PR to be elligable. - May 28, 2021
+5. Clarified review process, added tips for making reviws faster. - Aug 11, 2021
 
 ### Final note
 
