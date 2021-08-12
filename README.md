@@ -173,7 +173,7 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 * [Smart Regions](https://github.com/ZakFahey/SmartRegions) by GameRoom
   * Run programmable commands when a player is in a region.
   * Compatible with TShock 4.5.x
-  * [Download Version 1.3.0](https://files.catbox.moe/1rgaij.dll)
+  * [Download Version 1.3.1](https://files.catbox.moe/pusl50.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
 * [Normal Boss Bags](https://github.com/Quinci135/NormalBossBags) by Quinci
