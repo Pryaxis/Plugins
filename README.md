@@ -202,7 +202,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * Massive grand-scheme tile edits across the entire map, now with documentation!
   * Tested on TShock 4.5.5.
   * [Download](https://files.catbox.moe/upwhtl.dll)
-  * [Documentation](https://dev.rozen.one/worldedit)
+  * [Documentation](https://rozen.one/worldedit.html)
   * [Source code](https://github.com/Rozen4334/WorldEdit)
 * [RegionVision](https://github.com/Rozen4334/RegionVision/releases/tag/1.3) by [Andrio Celos](https://github.com/AndrioCelos), updated and rebranded by Rozen4334
   * Shows region borders to users, by specifying a region or by triggering it for the entire world.
