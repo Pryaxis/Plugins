@@ -10,6 +10,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [ChatManager](https://github.com/Rozen4334/ChatManager/releases/tag/v1.1) by Rozen4334
+  * A chat & username checker plugin that offers lots of configuration & lots of features.
+  * Tested on TShock 4.5.5.
+  * NOTE: Please remove NameValidator as this replaces & upgrades that plugin.
+  * [Download](https://files.catbox.moe/wt27p8.zip)
+  * [Source code](https://github.com/Rozen4334/ChatManager)
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
   * A very simple IRC<->Terraria chat bridge.
   * Tested on TShock 4.5.5.
@@ -39,12 +45,6 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * Tested on TShock 4.5.2
   * [Download](https://files.catbox.moe/7qfpmf.zip)
   * [Source code](https://github.com/drunderscore/WorldMapper)
-* [NameValidator](https://github.com/Rozen4334/NameValidator/releases/tag/v1.3) by Rozen4334
-  * Disallows inappropriate names, nonalphanumerical, +23 character names & an configurable amount of spaces in a name. 
-  * Most of this is configurable in the config file, filtered statements can be added and removed ingame.
-  * Tested on TShock 4.5.4
-  * [Download](https://files.catbox.moe/zwjwlh.zip)
-  * [Source code](https://github.com/Rozen4334/NameValidator)
 * [TPAccept](https://github.com/Rozen4334/TPAccept/releases/tag/1.0) by Rozen4334 & nyan-ko
   * A replacement for the base TP feature, inspired by Minecrafts '/tpa'
   * Tested on TShock 4.5.2
@@ -193,6 +193,12 @@ This is the TShock plugin repository. It collects links to all plugins in the ec
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
   
 ### Community Maintained Plugins 
+* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v4.5.5) by Nix studios & Anzhelika, maintained by Rozen4334.
+  * Massive grand-scheme tile edits across the entire map, now with documentation!
+  * Tested on TShock 4.5.5.
+  * [Download](https://files.catbox.moe/upwhtl.dll)
+  * [Documentation](https://dev.rozen.one/worldedit)
+  * [Source code](https://github.com/Rozen4334/WorldEdit)
 * [RegionVision](https://github.com/Rozen4334/RegionVision/releases/tag/1.3) by [Andrio Celos](https://github.com/AndrioCelos), updated and rebranded by Rozen4334
   * Shows region borders to users, by specifying a region or by triggering it for the entire world.
   * Tested on TShock 4.5.2, built on TShock 4.4.0.
