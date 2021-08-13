@@ -26,12 +26,6 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * Tested on TShock 4.5.5.
   * [Download Version 1.0.0](https://files.catbox.moe/9sufi0.zip)
   * [Source code](https://github.com/lemon-sh/IRCrarria)
-* [ListPluginsPlugin](https://github.com/Arthri/ListPluginsPlugin) by Arthri
-  * Provides commands for listing the currently loaded plugins.
-  * Tested on TShock 4.5.5
-  * [Download Version 1.0.0](https://files.catbox.moe/5oyxtc.zip)
-  * [Documentation](https://github.com/Arthri/ListPluginsPlugin#listpluginsplugin)
-  * [Source code](https://github.com/Arthri/ListPluginsPlugin)
 * [MultiSCore](https://github.com/Megghy/MultiSCore/releases/) by Megghy
   * An easy-to-use Terraria multi-world plugin that allows you to teleport directly to other servers in-game and back via a proxy
   * You can adjust the plugin language in the configuration file or modify it to your preferred sentence
@@ -196,6 +190,12 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Download Version 2.1](https://files.catbox.moe/ta8nc9.dll)
   * [Documentation](https://github.com/Dylanswaggerino/Buff-Emotions/blob/master/README.md)
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
+* [ListPluginsPlugin](https://github.com/Arthri/ListPluginsPlugin) by Arthri
+  * Provides commands for listing the currently loaded plugins.
+  * Tested on TShock 4.5.5
+  * [Download Version 1.0.1](https://files.catbox.moe/yqgpwt.dll)
+  * [Documentation](https://github.com/Arthri/ListPluginsPlugin#listpluginsplugin)
+  * [Source code](https://github.com/Arthri/ListPluginsPlugin)
   
 ### Community Maintained Plugins 
 * [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v4.5.5) by Nyx Studios & Anzhelika, maintained by Rozen4334.
