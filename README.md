@@ -15,11 +15,11 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * Tested on TShock 4.5.5
   * [Download Version 1.0.0](https://files.catbox.moe/14tcj8.dll) (`AutoTeam.dll`)
   * [Source code](https://github.com/TerraTrapezium/AutoTeam)
-* [ChatManager](https://github.com/Rozen4334/ChatManager/releases/tag/v1.1) by Rozen4334
+* [ChatManager](https://github.com/Rozen4334/ChatManager/releases/tag/v1.2) by Rozen4334
   * A chat & username checker plugin that offers lots of configuration & lots of features.
   * Tested on TShock 4.5.5.
   * NOTE: Please remove NameValidator as this replaces & upgrades that plugin.
-  * [Download](https://files.catbox.moe/wt27p8.zip)
+  * [Download](https://files.catbox.moe/4shaif.zip)
   * [Source code](https://github.com/Rozen4334/ChatManager)
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
   * A very simple IRC<->Terraria chat bridge.
@@ -198,10 +198,10 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Source code](https://github.com/Arthri/ListPluginsPlugin)
   
 ### Community Maintained Plugins 
-* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v4.5.5) by Nyx Studios & Anzhelika, maintained by Rozen4334.
+* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v2.0) by Nix studios & Anzhelika, maintained by Rozen4334.
   * Massive grand-scheme tile edits across the entire map, now with documentation!
   * Tested on TShock 4.5.5.
-  * [Download](https://files.catbox.moe/upwhtl.dll)
+  * [Download](https://files.catbox.moe/713g88.dll)
   * [Documentation](https://rozen.one/worldedit.html)
   * [Source code](https://github.com/Rozen4334/WorldEdit)
 * [RegionVision](https://github.com/Rozen4334/RegionVision/releases/tag/1.3) by [Andrio Celos](https://github.com/AndrioCelos), updated and rebranded by Rozen4334
