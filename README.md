@@ -198,7 +198,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Source code](https://github.com/Arthri/ListPluginsPlugin)
   
 ### Community Maintained Plugins 
-* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v2.0) by Nyx studios & Anzhelika, maintained by Rozen4334.
+* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v2.0) by Nyx Studios & Anzhelika, maintained by Rozen4334.
   * Massive grand-scheme tile edits across the entire map, now with documentation!
   * Tested on TShock 4.5.5.
   * [Download](https://files.catbox.moe/713g88.dll)
