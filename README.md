@@ -30,7 +30,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * An easy-to-use Terraria multi-world plugin that allows you to teleport directly to other servers in-game and back via a proxy
   * You can adjust the plugin language in the configuration file or modify it to your preferred sentence
   * Tested on TShock 4.5.5
-  * [Download Version 1.5.2](https://files.catbox.moe/h1plqy.dll)
+  * [Download Version 1.5.4](https://files.catbox.moe/q7bp0c.dll)
   * [Documentation](https://www.bbstr.net/r/75/)
   * [Source code](https://github.com/Megghy/MultiSCore/)
 * [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (xPanini)](https://github.com/xPanini)
