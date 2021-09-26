@@ -10,7 +10,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ----
 
 ## List of all plugins! 🧪☕️⚡️
-* [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [GoodPro712](https://github.com/GoodPro712)
+* [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [Metacinnabar](https://github.com/Metacinnabar)
   * Automatically assigns players a configurable team on world join.
   * Tested on TShock 4.5.5
   * [Download Version 1.0.0](https://files.catbox.moe/14tcj8.dll) (`AutoTeam.dll`)
