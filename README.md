@@ -376,4 +376,4 @@ These are the changes made to this page that aren't really plugin related.
 
 ### Final note
 
-We will probably add categories when we get more than 5 plugins to help people sort through them. You can also tag your plugins on GitHub with the `tshock` tag or the `tshock-plugin` tag or the `terraria` tag.
+You can tag your plugins on GitHub with the `tshock` tag, the `tshock-plugin` tag or the `terraria` tag.
