@@ -36,7 +36,8 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 * [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (xPanini)](https://github.com/xPanini)
   * Highly customizable Terraria Chat Relay with multiple Discord server support
   * Tested on TShock 4.5.5.
-  * [Download Version 0.9.2](https://files.catbox.moe/avy37t.zip)
+  * [Download Version 1.0.0 for TShock 4.5.5](https://files.catbox.moe/38gm3q.zip)
+  * [Download Version 1.0.0 for TShock 4.4.0-pre12](https://files.catbox.moe/d9mpej.zip)
   * [Documentation](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki)
   * [Source code](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
 * [WorldMapper](https://github.com/drunderscore/WorldMapper) by Dr. Underscore
