@@ -304,6 +304,7 @@ These are the changes made to this page that aren't really plugin related.
 5. Clarified review process, added tips for making reviws faster. - Aug 11, 2021
 7. Introducing verified developers, creating methods to apply and verify yourself as part of this group. - Oct 3, 2021
 8. Categorizing plugins into an assortment of gameplay types. - Oct 3, 2021
+9. Moving verification & submission process to different README's. - Oct 6, 2021
 
 ### Final note
 
