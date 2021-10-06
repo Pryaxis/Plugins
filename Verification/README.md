@@ -1,4 +1,4 @@
-# How to be listed as a verified plugin developer
+# 👨‍💻💻 How to be listed as a verified plugin developer
 
 ### Walking through the verification process
 
@@ -17,7 +17,7 @@
   * You shall regularly view open issues and maintain existing plugins on your repository, or take them down if you do not carry interest.
   * ` todo @particles `
 
-Not following any of the above requirements will have you either declined or removed as a verified plugin developer.
+⚠ *Not following any of the above requirements will have you either declined or removed as a verified plugin developer.*
 
 ### Expectations and benefits of being a verified developer
 
@@ -25,4 +25,4 @@ Not following any of the above requirements will have you either declined or rem
 * Always update your plugins if need be. Displaying but not updating your own plugins is poor behavior. 
 * Get the perk of being able to push plugins to your own list without needing them reviewed.
   * Do you not want to do this? Feel free to submit the plugins regularly. Reviews will be made by other verified developers.
-  * Alongside this, you CANNOT review your own plugins. Another verified developer or repository maintainer will have to do this.
+  * Alongside this, you **cannot** review your own plugins. Another verified developer or repository maintainer will have to do this.
