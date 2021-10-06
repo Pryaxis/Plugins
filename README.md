@@ -25,7 +25,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 *To submit a plugin, check out the [submission](https://github.com/Pryaxis/Plugins/tree/master/submission) process.*
 
 #### Contents:
-   - [Server sided characters](#ssc-server-sided-characters)
+   - [Server side characters](#ssc-server-side-characters)
    - [PvP/PvE](#pvppve)
    - [Building](#building)
    - [Moderation](#moderation)
@@ -39,7 +39,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 - 🔨 This plugin is maintained by another developer than the one who originally made it.
 - 🔗 This plugin is compatible with versions before 4.5.x
 
-### SSC (Server sided characters)
+### SSC (Server side characters)
 * Vanillafier
   * Sets up your server to run like the vanilla Terraria server in 1 easy command
   * Built on TShock 4.5.0
