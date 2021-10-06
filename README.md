@@ -28,7 +28,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 - 🔨 This plugin is maintained by another developer than the one who originally made it.
 - 🔗 This plugin is compatible with versions before 4.5.x
 
-### SSC (Server side character)
+### SSC (Server side characters)
 * Vanillafier
   * Sets up your server to run like the vanilla Terraria server in 1 easy command
   * Built on TShock 4.5.0
