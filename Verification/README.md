@@ -1,6 +1,6 @@
 # How to be listed as a verified developer
 
-## Walking through the verification process
+### Walking through the verification process
 
 1. Make sure you follow the requirements to be verified.
 2. Send a message regarding your interest to particles#0015 on Discord and through e-mail to argo@hey.com.
