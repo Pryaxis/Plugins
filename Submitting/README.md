@@ -38,6 +38,10 @@ You can add anything on top of the template that you want within reason. Your Di
 
 The one thing you cannot do is link to a non-Catbox download link. It's fine if you offer downloads somewhere else too (and you can link to the list of those downloads), but you need to have a catbox link here that goes directly to something someone can install.
 
+### Plugin tags:
+- 🔨 This plugin is maintained by another developer than the one who originally made it.
+- 🔗 This plugin is compatible with versions before 4.5.x
+
 ### What if plugin reviews are taking forever?
 If your plugin hasn't been reviewed in 1 day (give or take a few hours), please send a message to particles#0015 in Discord and a message to argo@hey.com. You will either get $10 US or a Discord Nitro subscription as reward for being significantly delayed. This offer only applies if you are not a TShock collaborator and if the pull-request contains only one plugin change. Please expect a response time of one day per plugin.
 
