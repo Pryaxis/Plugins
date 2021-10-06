@@ -1,6 +1,6 @@
 # How to submit plugins
 
-## Walking through the submission process
+### Walking through the submission process
 
 1. Compile your plugin as normal.
 2. Upload your release and any resources you need to [Catbox](https://catbox.moe/). This will be the download link for your plugin.
