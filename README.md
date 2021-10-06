@@ -24,6 +24,17 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 
 *To submit a plugin, check out the [submission](https://github.com/Pryaxis/Plugins/tree/master/submission) process.*
 
+#### Contents:
+   - [Server side characters](#ssc-server-side-characters)
+   - [PvP/PvE](#pvppve)
+   - [Building](#building)
+   - [Moderation](#moderation)
+   - [Management](#management)
+   - [Worlds](#worlds)
+   - [Custom server logic](#custom-server-logic)
+   - [Chat](#chat)
+   - [Miscellaneous](#miscellaneous)
+
 #### Tags:
 - 🔨 This plugin is maintained by another developer than the one who originally made it.
 - 🔗 This plugin is compatible with versions before 4.5.x
