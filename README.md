@@ -21,9 +21,8 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 ## List of all plugins! 🧪☕️⚡️
 
 #### Tags:
-- (Maintained) This means a plugin is maintained by another developer than the one who originally made it.
-- (Compatible) This plugin is compatible with versions before 4.5.x
-- (Security) This plugin is disabled because of security breaches. The reason for this security action is found in the `Security` section of this repository.
+- 🔨 This plugin is maintained by another developer than the one who originally made it.
+- 🔗 This plugin is compatible with versions before 4.5.x
 
 ### SSC (Server side character)
 * Vanillafier
@@ -63,7 +62,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * Built on TShock 4.4.0 Pre-8
   * [Download](https://files.catbox.moe/tkfyvq.dll)
   * [Documentation/Source Code](https://github.com/bippity/CreativeMode)
-* (Compatible) [WorldEdit](https://github.com/Brycey92/WorldEdit)
+* 🔗 [WorldEdit](https://github.com/Brycey92/WorldEdit)
   * Adds mass tile editing commands.
   * Built on TShock 4.4.0 Pre-11.
   * [Download 1.8.0](https://files.catbox.moe/2h14dl.zip)
@@ -80,13 +79,13 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * Tested on TShock 4.4.0 Pre-10.
   * [Download](https://files.catbox.moe/sqq56g.dll)
   * [Source code](https://github.com/Rustly/CloneNotify)
-* (Maintained) [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
+* 🔨 [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
   * Allows admins to become invisible to other players.
   * Built and tested on TShock 4.4.0 Pre-11.
   * [Download Version 1.2.0](https://files.catbox.moe/rh3myj.zip)
   * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
-* (Maintained) (Compatible) [PlayerInfo](https://github.com/Brycey92/PlayerInfo/tree/terraria-1.4) by [ParadonX](https://github.com/ParadonX), updated by [Brycey92](https://github.com/Brycey92)
+* 🔗 🔨 [PlayerInfo](https://github.com/Brycey92/PlayerInfo/tree/terraria-1.4) by [ParadonX](https://github.com/ParadonX), updated by [Brycey92](https://github.com/Brycey92)
   * A player info modifier/checker.
   * Built on TShock 4.4.0 Pre-11.
   * [Download 1.8](https://files.catbox.moe/fwqfl5.zip)
@@ -121,29 +120,29 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * [Download Version 1.3.1](https://files.catbox.moe/pusl50.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
-* (Maintained) [SummonLimit](https://github.com/moisterrific/SummonLimit) by [Newy](https://github.com/newyrose), updated by [moisterrific](https://github.com/moisterrific)
+* 🔨 [SummonLimit](https://github.com/moisterrific/SummonLimit) by [Newy](https://github.com/newyrose), updated by [moisterrific](https://github.com/moisterrific)
   * Prevents summon hacking.
   * Built on TShock 4.4.0 Pre-11.
   * [Download](https://files.catbox.moe/mr52x7.zip)
   * [Source code](https://github.com/moisterrific/SummonLimit)
-* (Maintained) [TshockLogs_Explosives](https://github.com/moisterrific/TshockLogs_Explosives) by [slzn](https://github.com/slzn), updated by [moisterrific](https://github.com/moisterrific)
+* 🔨 [TshockLogs_Explosives](https://github.com/moisterrific/TshockLogs_Explosives) by [slzn](https://github.com/slzn), updated by [moisterrific](https://github.com/moisterrific)
   * Helps to track explosives(Bomb, Dynamite, etc... ) usage.
   * Built on TShock 4.4.0 Pre-11.
   * [Download](https://files.catbox.moe/flnmuh.zip)
   * [Documentation](https://github.com/moisterrific/TshockLogs_Explosives#config)
   * [Source code](https://github.com/slzn/TshockLogs_Explosives)
-* (Compatible) [TShockPrometheus](https://github.com/swantzter/tshock-prometheus) by [Swantzter](https://github.com/swantzter)
+* 🔗 [TShockPrometheus](https://github.com/swantzter/tshock-prometheus) by [Swantzter](https://github.com/swantzter)
   * Exposes the current player count on the server to prometheus
   * Tested on TShock 4.4.0 Pre-15.
   * [Download Version 1.0.0](https://files.catbox.moe/lfi2sm.zip)
   * [Source code](https://github.com/swantzter/tshock-prometheus)
-* (Compatible) [TShock Server REST Mobile](https://github.com/KohlsAdrian/tshock_server_rest) by [647](https://github.com/KohlsAdrian)
+* 🔗 [TShock Server REST Mobile](https://github.com/KohlsAdrian/tshock_server_rest) by [647](https://github.com/KohlsAdrian)
   * Manage players/users, bans, world, groups and server directly from your mobile device.
   * Tested on TShock 4.4.0 Pre-15.
   * [Android APKs](https://github.com/KohlsAdrian/tshock_server_rest_client/tags) (iOS Should build directly from MacOS using Flutter SDK and XCode installed)
   * [Source code Flutter App](https://github.com/KohlsAdrian/tshock_server_rest_client)
   * [Source code Dart Wrapper (Doc)](https://github.com/KohlsAdrian/tshock_server_rest)
-* (Security) [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
+* [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
   * Temporarily removed due to a secure code review failure. A defect in the design by @brian91292 would lead to generating predictable passwords that could be easily obtained by malicious servers.
   * [Source code](https://github.com/moisterrific/TShockAutoRegister)
 
@@ -170,25 +169,25 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * Tested on TShock 4.4.0 Pre-10.
   * [Download](https://files.catbox.moe/5evaiv.dll)
   * [Source code](https://github.com/Rustly/AdvancedWarpplates)
-* (Maintained) [NPC Blocker](https://github.com/moisterrific/NPCBlocker2) by [Olink](https://github.com/Olink), updated by [moisterrific](https://github.com/moisterrific)
+* 🔨 [NPC Blocker](https://github.com/moisterrific/NPCBlocker2) by [Olink](https://github.com/Olink), updated by [moisterrific](https://github.com/moisterrific)
   * Allows you to block certain NPCs from spawning in the world.
   * Built and tested on TShock 4.5.3.0
   * [Download Version 2.0.0](https://files.catbox.moe/tfy6tb.zip)
   * [Documentation](https://github.com/moisterrific/NPCBlocker2/blob/main/README.md)
   * [Source Code](https://github.com/moisterrific/NPCBlocker2/blob/main/NPCBlocker/NPCBlocker.cs)
-* (Maintained) [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
+* 🔨 [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
   * [Download Version 1.2.1](https://files.catbox.moe/5zjurx.zip)
   * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
-* (Maintained) (Compatible) [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
+* 🔨 🔗 [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
   * Prevents players from losing HP when spamming the Rod of Discord.
   * Built and tested on TShock 4.4.0 Pre-11.
   * [Download Version 1.2.0](https://files.catbox.moe/gocgdm.zip)
   * [Documentation](https://github.com/moisterrific/RodHealer/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/RodHealer/blob/master/Rodhealer/main.cs)
-* (Maintained) (Compatible) [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
+* 🔨 🔗 [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
   * Refill your world with structures and resources!
   * Built and tested on Tshock 4.4.0 Pre-11.
   * [Download Version 2.1.3](https://files.catbox.moe/3fdrrv.zip)
@@ -206,7 +205,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * Tested on prerelease 15.
   * Source https://github.com/Rustly/JourneyMixer
   * Download https://files.catbox.moe/d9r1jr.dll
-* (Compatible) [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
+* 🔗 [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
   * Allows crossplay to happen in terraria servers via packet handling and manipulation
   * Tested on TShock 4.5.5.
   * [Download v1.4.2.1 - For TShock 4.5.4+](https://files.catbox.moe/vrszug.dll)
@@ -267,23 +266,23 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * [Download Version 2.1](https://files.catbox.moe/ta8nc9.dll)
   * [Documentation](https://github.com/Dylanswaggerino/Buff-Emotions/blob/master/README.md)
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
-* (Maintained) [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
+* 🔨 [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
   * [Download Version 1.2.1](https://files.catbox.moe/5zjurx.zip)
   * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
-* (Compatible) [Essentials+](https://github.com/QuiCM/EssentialsPlus) by [QuiCM](https://github.com/QuiCM) (and various others <3)
+* 🔗 [Essentials+](https://github.com/QuiCM/EssentialsPlus) by [QuiCM](https://github.com/QuiCM) (and various others <3)
   * Compatible with TShock v4.5.x
   * Numerous 'essential' tools for enhancing gameplay & administration capabilities
   * [Download](https://files.catbox.moe/2z23s9.dll)
   * [Source](https://github.com/QuiCM/EssentialsPlus)
-* (Compatible) [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
+* 🔗 [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
   * A calculator plugin.
   * Built on TShock 4.4.0 Pre-11.
   * [Download 1.0.0.0](https://files.catbox.moe/nkieg4.zip)
   * [Source code](https://github.com/edg-l/Calculator)
-* (Compatible) [Auto Team](https://github.com/dredhorse/tShockAutoTeam) by Don Redhorse
+* 🔗 [Auto Team](https://github.com/dredhorse/tShockAutoTeam) by Don Redhorse
    * Joins the players to a team based on permissions
    * Tested on TShock 4.4.0 Pre-12.
    * [Download Version 1.0.0](https://files.catbox.moe/1ouznb.dll)
@@ -297,7 +296,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 3. Upload the source code to your plugin to GitHub. You do **not** need to make your source a copyleft license (like GPL) or even make it anything other than proprietary.
 4. Copy the template below and add in the required things in the required spots.
 5. Send a pull request to this repository. Add your plugin to the list above near the other plugins.
-6. Add tags such as (Maintained) or (Compatible) if any apply to your plugin. They will be added if they're not already there.
+6. Add tags such as 🔗 or 🔨 if any apply to your plugin. They will be requested in the review if they're not present.
 7. Don't remove anything that isn't yours and don't change anything you didn't already add.
 8. When your plugin is approved, it will be added to the list.
 9. When you need to update your plugin, change the version number or other attributes, upload to [Catbox](https://catbox.moe/), and then re-submit your plugin.
