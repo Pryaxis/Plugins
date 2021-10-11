@@ -47,7 +47,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * [Character Reset (SSC)](https://github.com/bippity/CharacterReset) by [Bippity](https://github.com/bippity), updated by [moisterrific](https://github.com/moisterrific)
   * Allows you to reset SSC player data without the hassle of database editing. 
   * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
-  * [Download Version 1.0.3](https://files.catbox.moe/seefnu.zip)
+  * [Download v1.0.3](https://files.catbox.moe/seefnu.zip)
   * [Documentation](https://github.com/moisterrific/CharacterReset/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/CharacterReset/blob/master/CharacterReset.cs)
 * CustomMediumcore by Miffyli
@@ -55,21 +55,21 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * Requirements: Server-side characters enabled. Players must have "Casual" difficulty.
   * Place `drop_item_ids.txt` next to `TerrariaServer.exe`.
   * Tested on TShock 4.4.0 Pre-3.
-  * [Download Version 1.4.0.1](https://files.catbox.moe/2tplf7.zip)
+  * [Download v1.4.0.1](https://files.catbox.moe/2tplf7.zip)
   * [Source code and documentation](https://github.com/Miffyli/TerrariaCustomMediumcore)
 
 ### PvP/PvE
 * [Normal Boss Bags](https://github.com/Quinci135/NormalBossBags) by Quinci
   * Makes normal mode bosses drop treasure bags as if it were expert mode
   * Built and tested on TShock 4.4.0 Pre-12
-  * [Download Version 1.0](https://files.catbox.moe/647789.zip)
+  * [Download v1.0](https://files.catbox.moe/647789.zip)
   * [Source code](https://github.com/Quinci135/NormalBossBags)
 
 ### Building
 * [Invincible Tiles (and walls)](https://github.com/Olink/Invincible-Tiles) by Olink
   * Adds the ability for players to blacklist tile ids and wall ids, preventing users from breaking said tiles/walls.
   * Tested on TShock 4.4.0 Pre-6.
-  * [Download Version 1.0](https://files.catbox.moe/35914m.dll)
+  * [Download v1.0](https://files.catbox.moe/35914m.dll)
   * [Source code](https://github.com/Olink/Invincible-Tiles)
 * [Creative Mode](https://tshock.co/xf/index.php?resources/creative-mode.19/) by Bippity
   * A simple "Creative Mode" for players
@@ -79,7 +79,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * 🔗 [WorldEdit](https://github.com/Brycey92/WorldEdit)
   * Adds mass tile editing commands.
   * Built on TShock 4.4.0 Pre-11.
-  * [Download 1.8.0](https://files.catbox.moe/2h14dl.zip)
+  * [Download v1.8.0](https://files.catbox.moe/2h14dl.zip)
   * [Source code](https://github.com/Brycey92/WorldEdit)
 
 ### Moderation
@@ -96,13 +96,13 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * 🔨 [Ghost](https://github.com/DannyDan77/Ghost) by [DannyDan77](https://github.com/DannyDan77), updated by [moisterrific](https://github.com/moisterrific)
   * Allows admins to become invisible to other players.
   * Built and tested on TShock 4.4.0 Pre-11.
-  * [Download Version 1.2.0](https://files.catbox.moe/rh3myj.zip)
+  * [Download v1.2.0](https://files.catbox.moe/rh3myj.zip)
   * [Documentation (pls read!)](https://github.com/moisterrific/Ghost/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/Ghost/blob/master/GhostPlugin/GhostPlugin.cs)
 * 🔗 🔨 [PlayerInfo](https://github.com/Brycey92/PlayerInfo/tree/terraria-1.4) by [ParadonX](https://github.com/ParadonX), updated by [Brycey92](https://github.com/Brycey92)
   * A player info modifier/checker.
   * Built on TShock 4.4.0 Pre-11.
-  * [Download 1.8](https://files.catbox.moe/fwqfl5.zip)
+  * [Download v1.8](https://files.catbox.moe/fwqfl5.zip)
   * [Source code](https://github.com/Brycey92/PlayerInfo/tree/terraria-1.4)
 
 ### Management
@@ -120,7 +120,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * [ListPluginsPlugin](https://github.com/Arthri/ListPluginsPlugin) by Arthri
   * Provides commands for listing the currently loaded plugins.
   * Tested on TShock 4.5.5
-  * [Download Version 1.0.1](https://files.catbox.moe/yqgpwt.dll)
+  * [Download v1.0.1](https://files.catbox.moe/yqgpwt.dll)
   * [Documentation](https://github.com/Arthri/ListPluginsPlugin#listpluginsplugin)
   * [Source code](https://github.com/Arthri/ListPluginsPlugin)
 * [TDiffBackup](https://github.com/tieonlinux/TDiffBackup) by [tieonlinux](https://github.com/tieonlinux)
@@ -131,7 +131,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * [Smart Regions](https://github.com/ZakFahey/SmartRegions) by GameRoom
   * Run programmable commands when a player is in a region.
   * Compatible with TShock 4.5.x
-  * [Download Version 1.3.1](https://files.catbox.moe/pusl50.dll)
+  * [Download v1.3.1](https://files.catbox.moe/pusl50.dll)
   * [Documentation](https://github.com/ZakFahey/SmartRegions/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/SmartRegions)
 * 🔨 [SummonLimit](https://github.com/moisterrific/SummonLimit) by [Newy](https://github.com/newyrose), updated by [moisterrific](https://github.com/moisterrific)
@@ -148,7 +148,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * 🔗 [TShockPrometheus](https://github.com/swantzter/tshock-prometheus) by [Swantzter](https://github.com/swantzter)
   * Exposes the current player count on the server to prometheus
   * Tested on TShock 4.4.0 Pre-15.
-  * [Download Version 1.0.0](https://files.catbox.moe/lfi2sm.zip)
+  * [Download v1.0.0](https://files.catbox.moe/lfi2sm.zip)
   * [Source code](https://github.com/swantzter/tshock-prometheus)
 * 🔗 [TShock Server REST Mobile](https://github.com/KohlsAdrian/tshock_server_rest) by [647](https://github.com/KohlsAdrian)
   * Manage players/users, bans, world, groups and server directly from your mobile device.
@@ -165,13 +165,13 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
   * An easy-to-use Terraria multi-world plugin that allows you to teleport directly to other servers in-game and back via a proxy
   * You can adjust the plugin language in the configuration file or modify it to your preferred sentence
   * Tested on TShock 4.5.5
-  * [Download Version 1.5.2](https://files.catbox.moe/h1plqy.dll)
+  * [Download v1.5.2](https://files.catbox.moe/h1plqy.dll)
   * [Documentation](https://www.bbstr.net/r/75/)
   * [Source code](https://github.com/Megghy/MultiSCore/)
 * [AdditionalPylons](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons-Plugin) by [Stealownz](https://github.com/Stealownz)
   * Allows placing additional (infinite) pylons more than default Terraria limits
   * Tested on TShock 4.5.4
-  * [Download Version 1.1.0.0](https://files.catbox.moe/hx1lqm.dll)
+  * [Download v1.1.0.0](https://files.catbox.moe/hx1lqm.dll)
   * [Source code](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons)
 * [WorldMapper](https://github.com/drunderscore/WorldMapper) by Dr. Underscore
   * Allows generation of a PNG map of the entire world.
@@ -186,25 +186,25 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * 🔨 [NPC Blocker](https://github.com/moisterrific/NPCBlocker2) by [Olink](https://github.com/Olink), updated by [moisterrific](https://github.com/moisterrific)
   * Allows you to block certain NPCs from spawning in the world.
   * Built and tested on TShock 4.5.3.0
-  * [Download Version 2.0.0](https://files.catbox.moe/tfy6tb.zip)
+  * [Download v2.0.0](https://files.catbox.moe/tfy6tb.zip)
   * [Documentation](https://github.com/moisterrific/NPCBlocker2/blob/main/README.md)
   * [Source Code](https://github.com/moisterrific/NPCBlocker2/blob/main/NPCBlocker/NPCBlocker.cs)
 * 🔨 [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
-  * [Download Version 1.2.1](https://files.catbox.moe/5zjurx.zip)
+  * [Download v1.2.1](https://files.catbox.moe/5zjurx.zip)
   * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
 * 🔨 🔗 [RodHealer](https://github.com/ancientgods/RodHealer) by [ancientgods](https://github.com/ancientgods), updated by [moisterrific](https://github.com/moisterrific)
   * Prevents players from losing HP when spamming the Rod of Discord.
   * Built and tested on TShock 4.4.0 Pre-11.
-  * [Download Version 1.2.0](https://files.catbox.moe/gocgdm.zip)
+  * [Download v1.2.0](https://files.catbox.moe/gocgdm.zip)
   * [Documentation](https://github.com/moisterrific/RodHealer/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/RodHealer/blob/master/Rodhealer/main.cs)
 * 🔨 🔗 [World Refill](https://github.com/k0rd/WorldRefill) by [K0rd](https://github.com/k0rd), updated by [Illuminousity](https://github.com/Illuminousity)
   * Refill your world with structures and resources!
   * Built and tested on Tshock 4.4.0 Pre-11.
-  * [Download Version 2.1.3](https://files.catbox.moe/3fdrrv.zip)
+  * [Download v2.1.3](https://files.catbox.moe/3fdrrv.zip)
   * [Documentation](https://github.com/Illuminousity/WorldRefill/blob/master/README.md)
   * [Source Code](https://github.com/Illuminousity/WorldRefill)
 
@@ -212,7 +212,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * Tiled by thanatos-tshock
   * Provides alternate tile implementations which improve performance and memory usage
   * Tested on TShock 4.4.0 Pre-3.
-  * [Download Version 1.4.0.0](https://files.catbox.moe/qmcthi.dll)
+  * [Download v1.4.0.0](https://files.catbox.moe/qmcthi.dll)
   * [Source code](https://github.com/thanatos-tshock/Tiled)
 * JourneyMixer
   * Allows journey mode characters to join a non journey mode world and now visa versa.
@@ -231,18 +231,18 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (xPanini)](https://github.com/xPanini)
   * Highly customizable Terraria Chat Relay with multiple Discord server support
   * Tested on TShock 4.5.5.
-  * [Download Version 0.9.2](https://files.catbox.moe/avy37t.zip)
+  * [Download v0.9.2](https://files.catbox.moe/avy37t.zip)
   * [Documentation](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki)
   * [Source code](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
   * A very simple IRC<->Terraria chat bridge.
   * Tested on TShock 4.5.5.
-  * [Download Version 1.0.0](https://files.catbox.moe/9sufi0.zip)
+  * [Download v1.0.0](https://files.catbox.moe/9sufi0.zip)
   * [Source code](https://github.com/lemon-sh/IRCrarria)
 * [Terracord](https://github.com/FragLand/terracord) by [ldilley](https://github.com/ldilley)
   * A Discord <-> Terraria bridge plugin for TShock
   * Tested on TShock 4.5.5.
-  * [Download Version 1.3.1](https://files.catbox.moe/u9wrwm.zip)
+  * [Download v1.3.1](https://files.catbox.moe/u9wrwm.zip)
   * [Documentation](https://github.com/FragLand/terracord/blob/master/.github/README.md)
   * [Source code](https://github.com/FragLand/terracord)
 
@@ -250,40 +250,40 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [Metacinnabar](https://github.com/Metacinnabar)
   * Automatically assigns players a configurable team on world join.
   * Tested on TShock 4.5.5
-  * [Download Version 1.0.0](https://files.catbox.moe/14tcj8.dll) (`AutoTeam.dll`)
+  * [Download v1.0.0](https://files.catbox.moe/14tcj8.dll) (`AutoTeam.dll`)
   * [Source code](https://github.com/TerraTrapezium/AutoTeam)
 * FACommands by MineBartekSA
   * Originally created by Hiarni & Zaicon
   * Fun and Admin Commands
   * Tested on TShock 4.4.0 Pre-12.
-  * [Download Version 1.7.1](https://files.catbox.moe/elsv0g.dll)
+  * [Download v1.7.1](https://files.catbox.moe/elsv0g.dll)
   * [Source code](https://github.com/MineBartekSA/FACommands)
 * TerraJump by MineBartekSA
   * Simple plugin that adds JumpPads
   * Tested on TShock 4.4.0 Pre-15.
-  * [Download Version 2.3.1](https://files.catbox.moe/oc1a1a.dll)
+  * [Download v2.3.1](https://files.catbox.moe/oc1a1a.dll)
   * [Source code](https://github.com/MineBartekSA/TerraJump)
 * [Team Commands](https://github.com/ZakFahey/Team-Commands) by GameRoom
   * Run commands for a whole team.
   * Built on TShock 4.4.0 Pre-8
-  * [Download Version 1.2](https://files.catbox.moe/8mlw7v.dll)
+  * [Download v1.2](https://files.catbox.moe/8mlw7v.dll)
   * [Documentation](https://github.com/ZakFahey/Team-Commands/blob/master/README.md)
   * [Source code](https://github.com/ZakFahey/Team-Commands)
 * [AFK Warp/Kick Plugin](https://tshock.co/xf/index.php?resources/afk-warp-kick.104/) by Bippity
   * Idle players will be warped/kicked after a defined time
   * Built on TShock 4.4.0 Pre-12
-  * [Download Version 1.1](https://files.catbox.moe/bmm85t.zip)
+  * [Download v1.1](https://files.catbox.moe/bmm85t.zip)
   * [Documentation/Source Code](https://github.com/bippity/AFK)
 * [Buff Emoticons](https://github.com/Dylanswaggerino/Buff-Emotions) by The Killer [NL]
   * Gives the user a in-game buff for 46 seconds!
   * Tested on TShock 4.4.0 Pre-15.
-  * [Download Version 2.1](https://files.catbox.moe/ta8nc9.dll)
+  * [Download v2.1](https://files.catbox.moe/ta8nc9.dll)
   * [Documentation](https://github.com/Dylanswaggerino/Buff-Emotions/blob/master/README.md)
   * [Source code](https://github.com/Dylanswaggerino/Buff-Emotions)
 * 🔨 [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [moisterrific](https://github.com/moisterrific)
   * Allows "infinite" chests and additional features such as auto-refill, password-protected chests, and more.
   * Built and tested on TShock 4.5.2.0 (April Lyrids edition).
-  * [Download Version 1.2.1](https://files.catbox.moe/5zjurx.zip)
+  * [Download v1.2.1](https://files.catbox.moe/5zjurx.zip)
   * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
 * 🔗 [Essentials+](https://github.com/QuiCM/EssentialsPlus) by [QuiCM](https://github.com/QuiCM) (and various others <3)
@@ -294,13 +294,13 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 * 🔗 [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
   * A calculator plugin.
   * Built on TShock 4.4.0 Pre-11.
-  * [Download 1.0.0.0](https://files.catbox.moe/nkieg4.zip)
+  * [Download v1.0.0.0](https://files.catbox.moe/nkieg4.zip)
   * [Source code](https://github.com/edg-l/Calculator)
 * 🔗 [Auto Team](https://github.com/dredhorse/tShockAutoTeam) by Don Redhorse
    * Joins the players to a team based on permissions
    * Tested on TShock 4.4.0 Pre-12.
-   * [Download Version 1.0.0](https://files.catbox.moe/1ouznb.dll)
-   * [Documentation and SourceCode](https://github.com/dredhorse/tShockAutoTeam)
+   * [Download v1.0.0](https://files.catbox.moe/1ouznb.dll)
+   * [Source code and documentation](https://github.com/dredhorse/tShockAutoTeam)
 ----
 
 ### Changes
