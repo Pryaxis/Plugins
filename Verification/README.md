@@ -10,7 +10,9 @@
 ### Requirements to be verified
 
 * You require at least 5 plugin submissions in this repository. Plugins on this repository have been reviewed by the TShock team and are safe for use. This contributes to your overall status as a developer, and shows that youre a dedicated developer in the Terraria community.
-* Your github page requires to be clean of potential malware, projects that could conflict with DMCA and be safe to view for all age groups.
+* Your profile page requires to be clean of potential malware, projects that could conflict with DMCA and be safe to view for all age groups.
+* You are expected to have all your available plugins be open-source on the same profile as your public listing.
+* Downloads must direct (or include a link) to the releases tab in a Git repository. This ties in with the above requirement.
 * Upon applying, you are required to sign a contract with the legal entity Pryaxis in agreement of the following:
   * You shall *not* submit nor support malware.
   * You shall verify the safety of your plugins and crash-test before publishing them.
