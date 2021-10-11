@@ -1,4 +1,4 @@
-## How to submit plugins 📑📚
+## 📑📚 How to submit plugins
 
 ### Walking through the submission process
 
