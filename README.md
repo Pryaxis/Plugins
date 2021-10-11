@@ -8,7 +8,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 
 ----
 
-## Verified developers! 👨‍💻💻
+## 👨‍💻💻 Verified developers!
 
 Developers in this category are in agreement with (or part of) the Pryaxis team and understand the requirements behind producing a safe plugin. Each of these developers have their own entries, and their plugins are available on the linked repositories, website or collection repository.
 
@@ -19,7 +19,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 
 *To become a verified plugin developer, check out the [verification](https://github.com/Pryaxis/Plugins/tree/master/Verification) process.*
 
-## Plugins list! 🧪☕️⚡️
+## 🧪☕️⚡️ Plugins list!
 
 *To submit a plugin, check out the [submission](https://github.com/Pryaxis/Plugins/tree/master/submission) process.*
 
