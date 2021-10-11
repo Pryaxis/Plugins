@@ -1,4 +1,4 @@
-# 👨‍💻💻 How to be listed as a verified plugin developer
+## 👨‍💻💻 How to be listed as a verified plugin developer
 
 ### Walking through the verification process
 
