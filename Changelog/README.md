@@ -13,3 +13,4 @@ The list below only adds changes that aren't directly plugin related. Changes wi
 8. Categorizing plugins into an assortment of gameplay types. - Oct 3, 2021
 9. Moving verification & submission process to different README's. - Oct 6, 2021
 10. Moving changelog to different README. - Oct 11, 2021
+11. Several design changes for more consistent use. - Oct 11, 2021
