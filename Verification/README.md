@@ -24,5 +24,5 @@
 * Review plugins other people submit, decompile and check for any security vulnerabilities.
 * Always update your plugins if need be. Displaying but not updating your own plugins is poor behavior. 
 * Get the perk of being able to push plugins to your own list without needing them reviewed.
-  * Do you not want to do this? Feel free to submit the plugins regularly. Reviews will be made by other verified developers.
+  * Do you not want to do this? Feel free to submit your plugins normally. Reviews will be made by other verified developers.
   * Alongside this, you **cannot** review your own plugins. Another verified developer or repository maintainer will have to do this.
