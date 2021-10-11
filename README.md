@@ -1,7 +1,6 @@
-﻿<p align="center">
-  <img src="https://tshock.co/newlogo.png" alt="TShock for Terraria"><br />
-  <a href="https://github.com/TShock/TShock">
-    Main Project
+<p align="center">
+  <a href="https://github.com/TShock/TShock" title="Click to visit the main project">
+    <img src="https://tshock.co/newlogo.png" alt="TShock for Terraria">
   </a>
 </p>
 
