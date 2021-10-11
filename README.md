@@ -10,14 +10,14 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 
 ## 👨‍💻💻 Verified developers!
 
+*To become a verified plugin developer, check out the [verification](https://github.com/Pryaxis/Plugins/tree/master/Verification) process.*
+
 Developers in this category are in agreement with (or part of) the Pryaxis team and understand the requirements behind producing a safe plugin. Each of these developers have their own entries, and their plugins are available on the linked repositories, website or collection repository.
 
 * [Rozen4334](https://github.com/Rozen4334)
   * Maintainer/creator of: ChatManager, WorldEdit, Buildmode and many others.
   * [Contact](https://rozen.one)
   * [Plugin collection](https://github.com/Rozen4334/TShock-plugins)
-
-*To become a verified plugin developer, check out the [verification](https://github.com/Pryaxis/Plugins/tree/master/Verification) process.*
 
 ## 🧪☕️⚡️ Plugins list!
 
