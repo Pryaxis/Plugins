@@ -19,7 +19,7 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
 
 *To become a verified plugin developer, check out the [verification](https://github.com/Pryaxis/Plugins/tree/master/Verification) process.*
 
-## List of all plugins! 🧪☕️⚡️
+## Plugins list! 🧪☕️⚡️
 
 *To submit a plugin, check out the [submission](https://github.com/Pryaxis/Plugins/tree/master/submission) process.*
 
