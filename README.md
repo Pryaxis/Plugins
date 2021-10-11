@@ -35,8 +35,8 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
    - [Miscellaneous](#miscellaneous)
 
 #### Tags:
-- 🔨 This plugin is maintained by another developer than the one who originally made it.
-- 🔗 This plugin is compatible with versions before 4.5.x
+- [🔨](# "This plugin is maintained by another developer than the one who originally made it.")
+- [🔗](# "This plugin is compatible with versions before 4.5.x")
 
 ### SSC (Server side characters)
 * Vanillafier
