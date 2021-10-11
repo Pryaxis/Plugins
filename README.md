@@ -303,19 +303,6 @@ Developers in this category are in agreement with (or part of) the Pryaxis team 
    * [Source code and documentation](https://github.com/dredhorse/tShockAutoTeam)
 ----
 
-### Changes
-
-These are the changes made to this page that aren't really plugin related.
-
-1. Created system for submitting plugins. - May 18, 2020.
-2. Updated system to include TShock test version. - May 18, 2020.
-3. Add slow plugin review scheme. - June 18, 2020.
-4. Plugin slowness scheme revised to require one plugin per PR to be elligable. - May 28, 2021
-5. Clarified review process, added tips for making reviws faster. - Aug 11, 2021
-7. Introducing verified developers, creating methods to apply and verify yourself as part of this group. - Oct 3, 2021
-8. Categorizing plugins into an assortment of gameplay types. - Oct 3, 2021
-9. Moving verification & submission process to different README's. - Oct 6, 2021
-
-### Final note
+### Additional note
 
 You can tag your plugins on GitHub with the `tshock` tag, the `tshock-plugin` tag or the `terraria` tag.
