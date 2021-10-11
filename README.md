@@ -1,5 +1,5 @@
-﻿<p align="center">
-  <a href="https://github.com/TShock/TShock">
+<p align="center">
+  <a href="https://github.com/TShock/TShock" title="Click to visit the main project">
     <img src="https://tshock.co/newlogo.png" alt="TShock for Terraria">
   </a>
 </p>
