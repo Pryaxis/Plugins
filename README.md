@@ -176,7 +176,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Documentation](https://github.com/Arthri/ListPluginsPlugin#listpluginsplugin)
   * [Source code](https://github.com/Arthri/ListPluginsPlugin)
 * [TemplateMOTDPlugin](https://github.com/Arthri/TemplateMOTDPlugin) by Arthri
-  * Provides commands for listing the currently loaded plugins.
+  * TemplateMOTDPlugin replaces TShock's MOTD engine with [Scriban](https://github.com/scriban/scriban).
   * Tested on TShock 4.5.5
   * [Download Version 1.0.0](https://files.catbox.moe/73sl3l.zip)
   * [Documentation](https://github.com/Arthri/TemplateMOTDPlugin)
