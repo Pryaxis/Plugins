@@ -175,6 +175,12 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Download Version 1.0.1](https://argo.sfo2.digitaloceanspaces.com/tshock/ListPluginsPlugin/ListPluginsPlugin-1.0.dll)
   * [Documentation](https://github.com/Arthri/ListPluginsPlugin#listpluginsplugin)
   * [Source code](https://github.com/Arthri/ListPluginsPlugin)
+* [TemplateMOTDPlugin](https://github.com/Arthri/TemplateMOTDPlugin) by Arthri
+  * TemplateMOTDPlugin replaces TShock's MOTD engine with [Scriban](https://github.com/scriban/scriban).
+  * Tested on TShock 4.5.5
+  * [Download Version 1.0.0](https://files.catbox.moe/73sl3l.zip)
+  * [Documentation](https://github.com/Arthri/TemplateMOTDPlugin)
+  * [Source code](https://github.com/Arthri/TemplateMOTDPlugin)
 
 ### Community Maintained Plugins
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
