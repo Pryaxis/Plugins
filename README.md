@@ -15,12 +15,6 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * Tested on TShock 4.5.5
   * [Download Version 1.0.0](https://argo.sfo2.digitaloceanspaces.com/tshock/AutoTeam/AutoTeam-1.0.0.dll) (`AutoTeam.dll`)
   * [Source code](https://github.com/TerraTrapezium/AutoTeam)
-* [ChatManager](https://github.com/Rozen4334/ChatManager/releases/tag/v1.1) by Rozen4334
-  * A chat & username checker plugin that offers lots of configuration & lots of features.
-  * Tested on TShock 4.5.5.
-  * NOTE: Please remove NameValidator as this replaces & upgrades that plugin.
-  * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/ChatManager/ChatManager-1.1.zip)
-  * [Source code](https://github.com/Rozen4334/ChatManager)
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
   * A very simple IRC<->Terraria chat bridge.
   * Tested on TShock 4.5.5.
@@ -44,21 +38,6 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * Tested on TShock 4.5.2
   * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/WorldMapper/WorldMapper-1.0.0.zip)
   * [Source code](https://github.com/drunderscore/WorldMapper)
-* [TPAccept](https://github.com/Rozen4334/TPAccept/releases/tag/1.0) by Rozen4334 & nyan-ko
-  * A replacement for the base TP feature, inspired by Minecrafts '/tpa'
-  * Tested on TShock 4.5.2
-  * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/TPAccept/TPAccept-1.0.dll)
-  * [Source code](https://github.com/Rozen4334/TPAccept)
-* [Buildmode](https://github.com/Rozen4334/Buildmode/releases/tag/v1.2) by nyan-ko & Rozen4334
-  * Allows players to enter a permaday state without cave backgrounds, adds buffs & more!
-  * Tested on TShock 4.5.2
-  * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/Buildmode/Buildmode-1.2.dll)
-  * [Source code](https://github.com/Rozen4334/Buildmode)
-* [MapTP](https://github.com/Rozen4334/MapTP/releases/tag/v1.0) by Rozen4334
-  * Allows players to teleport to any location on the map, by simply double clicking said location!
-  * Tested on TShock 4.5.2
-  * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/MapTP/MapTP-1.0.dll)
-  * [Source code](https://github.com/Rozen4334/MapTP)
 * [AdditionalPylons](https://github.com/Adventure-Terraria-Server-Project/AdditionalPylons-Plugin) by [Stealownz](https://github.com/Stealownz)
   * Allows placing additional (infinite) pylons more than default Terraria limits
   * Tested on TShock 4.5.4
@@ -198,17 +177,6 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Source code](https://github.com/Arthri/ListPluginsPlugin)
 
 ### Community Maintained Plugins
-* [WorldEdit](https://github.com/Rozen4334/WorldEdit/releases/tag/v4.5.5) by Nyx Studios & Anzhelika, maintained by Rozen4334.
-  * Massive grand-scheme tile edits across the entire map, now with documentation!
-  * Tested on TShock 4.5.5.
-  * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/WorldEdit/WorldEdit.dll)
-  * [Documentation](https://rozen.one/worldedit.html)
-  * [Source code](https://github.com/Rozen4334/WorldEdit)
-* [RegionVision](https://github.com/Rozen4334/RegionVision/releases/tag/1.3) by [Andrio Celos](https://github.com/AndrioCelos), updated and rebranded by Rozen4334
-  * Shows region borders to users, by specifying a region or by triggering it for the entire world.
-  * Tested on TShock 4.5.2, built on TShock 4.4.0.
-  * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/RegionVision/RegionVision.dll)
-  * [Source code](https://github.com/Rozen4334/RegionVision)
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
   * Temporarily removed due to a secure code review failure. A defect in the design by @brian91292 would lead to generating predictable passwords that could be easily obtained by malicious servers.
   * [Source code](https://github.com/moisterrific/TShockAutoRegister)
