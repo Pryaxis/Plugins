@@ -18,7 +18,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 * [IRCrarria](https://github.com/lemon-sh/IRCrarria) by lemon-sh
   * A very simple IRC<->Terraria chat bridge.
   * Tested on TShock 4.5.5.
-  * [Download Version 1.2.0](https://files.catbox.moe/70d6vl.zip)
+  * [Download Version 1.2.0](https://argo.sfo2.digitaloceanspaces.com/tshock/IRCRarria/IRCrarria-1.2.0.zip)
   * [Source code](https://github.com/lemon-sh/IRCrarria)
 * [MultiSCore](https://github.com/Megghy/MultiSCore/releases/) by Megghy
   * An easy-to-use Terraria multi-world plugin that allows you to teleport directly to other servers in-game and back via a proxy
