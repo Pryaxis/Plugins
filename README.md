@@ -60,10 +60,9 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/ZAdminCmds/ZAdminCmds.dll)
   * [Source code](https://github.com/Rustly/ZAdminCmds)
 * [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
-  * Allows crossplay to happen in terraria servers via packet handling and manipulation
+  * Provides support for mobile and other older-versioned players to join terraria servers on the newer versions.
   * Tested on TShock 4.5.5.
-  * [Download v1.4.2.1 - For TShock 4.5.4+](https://argo.sfo2.digitaloceanspaces.com/tshock/Crossplay/Crossplay-1.4.2.1.dll)
-  * [Download v1.1.1 - For TShock 4.4.0 pre-12](https://argo.sfo2.digitaloceanspaces.com/tshock/Crossplay/Crossplay-1.1.1.dll)
+  * [Download v1.5.0](https://files.catbox.moe/1aptgb.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
 * AdvancedWarpplates
