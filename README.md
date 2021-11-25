@@ -62,7 +62,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 * [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
   * Provides support for mobile and other older-versioned players to join terraria servers on the newer versions.
   * Tested on TShock 4.5.9.
-  * [Download v1.7.0](https://files.catbox.moe/lh8vef.dll)
+  * [Download v1.7.0](https://argo.sfo2.digitaloceanspaces.com/tshock/Crossplay/Crossplay-1.7.0.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
 * AdvancedWarpplates
