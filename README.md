@@ -10,6 +10,11 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [TerraRoyale](https://github.com/RussDev7/TerraRoyale) by [xXCrypticNightXx](https://github.com/RussDev7)
+  * Places unteamed players in teams and evenly spaces everyone out for PvP.
+  * Tested on TShock 4.5.12
+  * [Download Version 1.0.0](https://russdev.mooo.com/extra/TerraRoyale.dll) (`TerraRoyale.dll`)
+  * [Source code](https://github.com/RussDev7/TerraRoyale)
 * [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [Metacinnabar](https://github.com/Metacinnabar)
   * Automatically assigns players a configurable team on world join.
   * Tested on TShock 4.5.5
