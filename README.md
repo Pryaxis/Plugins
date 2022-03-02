@@ -62,7 +62,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 * [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
   * Provides cross-platform play on Terraria servers.
   * Tested on TShock 4.5.15a.
-  * [Download v1.10.0](https://files.catbox.moe/ws7xxw.dll)
+  * [Download v1.10.1](https://files.catbox.moe/fkmt3y.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
 * AdvancedWarpplates
