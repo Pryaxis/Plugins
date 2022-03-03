@@ -10,6 +10,12 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* LootControl by Beerik94
+  * Adds the ability to control the NPC Loot Tables!
+  * Even the NPC variants!!!
+  * Tested on TShock 4.5.15a Pre-release.
+  * [Download Version 1.2.0](https://files.catbox.moe/n7u47t.dll)
+  * [Source code](https://github.com/beerik94/LootControl)
 * [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [Metacinnabar](https://github.com/Metacinnabar)
   * Automatically assigns players a configurable team on world join.
   * Tested on TShock 4.5.5
