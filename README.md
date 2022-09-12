@@ -10,6 +10,12 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [AutoStop](https://github.com/kevmeath/AutoStop) by kevmeath
+  * Stops the server if it's empty for a specified amount of time.
+  * Tested on TShock 4.5.18.
+  * [Download Version 1.2](https://files.catbox.moe/8dikj3.dll)
+  * [Documentation](https://github.com/kevmeath/AutoStop#readme)
+  * [Source code](https://github.com/kevmeath/AutoStop)
 * [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [Metacinnabar](https://github.com/Metacinnabar)
   * Automatically assigns players a configurable team on world join.
   * Tested on TShock 4.5.5
