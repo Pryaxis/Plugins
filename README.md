@@ -182,6 +182,12 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Source code](https://github.com/Arthri/TemplateMOTDPlugin)
 
 ### Community Maintained Plugins
+* [TimeRanks](https://github.com/RenderBr/TimeRanks) originally by White, updated by Average
+  * Allows a rank progression system based on user playtime
+  * Tested on TShock 4.5.18
+  * [Download Version 1.2.3](https://files.catbox.moe/10jg3t.dll)
+  * [Documentation](https://tshock.co/xf/index.php?threads/time-based-rank-system.2837/)
+  * [Source code](https://github.com/RenderBr/TimeRanks/tree/master/TimeRanks)
 * [AutoRegister](https://github.com/moisterrific/TShockAutoRegister) by [brian91292](https://github.com/brian91292), updated by [moisterrific](https://github.com/moisterrific)
   * Temporarily removed due to a secure code review failure. A defect in the design by @brian91292 would lead to generating predictable passwords that could be easily obtained by malicious servers.
   * [Source code](https://github.com/moisterrific/TShockAutoRegister)
