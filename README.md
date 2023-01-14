@@ -106,8 +106,8 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Source code](https://github.com/FragLand/terracord)
 * TerraJump by MineBartekSA
   * Simple plugin that adds JumpPads
-  * Tested on TShock 4.4.0 Pre-15.
-  * [Download Version 2.3.1](https://argo.sfo2.digitaloceanspaces.com/tshock/TerraJump/TerraJump-2.3.1.dll)
+  * Tested on TShock 5.1.3.
+  * [Download Version 2.4.0](https://github.com/MineBartekSA/TerraJump/releases/download/v2.4.0/TerraJump.dll)
   * [Source code](https://github.com/MineBartekSA/TerraJump)
 * [Invincible Tiles (and walls)](https://github.com/Olink/Invincible-Tiles) by Olink
   * Adds the ability for players to blacklist tile ids and wall ids, preventing users from breaking said tiles/walls.
