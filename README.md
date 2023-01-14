@@ -104,7 +104,7 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Download Version 1.3.1](https://argo.sfo2.digitaloceanspaces.com/tshock/Terracord/TerraCord-1.3.1.zip)
   * [Documentation](https://github.com/FragLand/terracord/blob/master/.github/README.md)
   * [Source code](https://github.com/FragLand/terracord)
-* TerraJump by MineBartekSA
+* [TerraJump](https://github.com/MineBartekSA/TerraJump) by MineBartekSA
   * Simple plugin that adds JumpPads
   * Tested on TShock 5.1.3.
   * [Download Version 2.4.0](https://github.com/MineBartekSA/TerraJump/releases/download/v2.4.0/TerraJump.dll)
