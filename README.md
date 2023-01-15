@@ -92,12 +92,6 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * Tested on TShock 4.4.0 Pre-3.
   * [Download Version 1.4.0.0](https://argo.sfo2.digitaloceanspaces.com/tshock/Tiled/Tiled-1.4.0.0.dll)
   * [Source code](https://github.com/thanatos-tshock/Tiled)
-* FACommands by MineBartekSA
-  * Originally created by Hiarni & Zaicon
-  * Fun and Admin Commands
-  * Tested on TShock 4.4.0 Pre-12.
-  * [Download Version 1.7.1](https://argo.sfo2.digitaloceanspaces.com/tshock/FACommands/FACommands-1.7.1.dll)
-  * [Source code](https://github.com/MineBartekSA/FACommands)
 * [Terracord](https://github.com/FragLand/terracord) by [ldilley](https://github.com/ldilley)
   * A Discord <-> Terraria bridge plugin for TShock
   * Tested on TShock 4.5.5.
@@ -209,6 +203,11 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Download Version 1.2.1](https://argo.sfo2.digitaloceanspaces.com/tshock/InfiniteChests/InfiniteChests-1.2.1.zip)
   * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
+* [FACommands](https://github.com/MineBartekSA/FACommands) by Hiarni & Zaicon, updated by MineBartekSA
+  * Fun and Admin Commands
+  * Tested on TShock 5.1.3.
+  * [Download Version 1.8.0](https://github.com/MineBartekSA/FACommands/releases/download/v1.8.0/FACommands.dll)
+  * [Source code](https://github.com/MineBartekSA/FACommands)
 
 #### Compatible with older TShock versions
 * [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
