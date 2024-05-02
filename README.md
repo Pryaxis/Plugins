@@ -67,9 +67,9 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Download](https://argo.sfo2.digitaloceanspaces.com/tshock/ZAdminCmds/ZAdminCmds.dll)
   * [Source code](https://github.com/Rustly/ZAdminCmds)
 * [Crossplay](https://github.com/Moneylover3246/Crossplay) by Moneylover3246
-  * Provides support for mobile and other older-versioned players to join terraria servers on the newer versions.
-  * Tested on TShock 4.5.9.
-  * [Download v1.7.0](https://argo.sfo2.digitaloceanspaces.com/tshock/Crossplay/Crossplay-1.7.0.dll)
+  * Enables cross-platform play on Terraria servers.
+  * Tested on TShock 4.5.15a.
+  * [Download v1.10.2](https://files.catbox.moe/rz64ic.dll)
   * [Documentation](https://github.com/Moneylover3246/Crossplay/blob/main/README.md)
   * [Source code](https://github.com/Moneylover3246/Crossplay/)
 * AdvancedWarpplates
