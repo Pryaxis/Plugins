@@ -10,6 +10,13 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [TShock Chinese Plugin Collection | TShock中文插件搜集仓库](https://github.com/Controllerdestiny/TShockPlugin)
+  * This is a repository dedicated to collecting and integrating TShock Chinese plugins. We will continue to collect high-quality TShock Chinese plugins and update them in a timely manner.
+  * 这是一个致力于收集整合 TShock中文插件的仓库，我们将持续收集优质的 TShock 中文插件，并及时进行更新.
+  * Tested on TShock 5.2.0
+  * [Download](https://github.com/Controllerdestiny/TShockPlugin/releases/tag/V1.0.0.0)
+  * [Documentation](https://github.com/Controllerdestiny/TShockPlugin/blob/master/README.md)
+  * [Source code](https://github.com/Controllerdestiny/TShockPlugin)
 * [AutoTeam](https://github.com/TerraTrapezium/AutoTeam) by [Metacinnabar](https://github.com/Metacinnabar)
   * Automatically assigns players a configurable team on world join.
   * Tested on TShock 4.5.5
