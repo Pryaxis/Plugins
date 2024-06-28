@@ -10,6 +10,11 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [DA-Integration](https://github.com/fet1sov/DA-Integration) by [fet1sov](https://github.com/fet1sov)
+  * Integration of the donation called DonationAlerts acceptance service directly into the game. (Stream alerts in the future)
+  * Tested on TShock 4.5.17
+  * [Download](https://github.com/fet1sov/DA-Integration/releases)
+  * [Source code](https://github.com/fet1sov/DA-Integration)
 * [TShock Chinese Plugin Collection | TShock中文插件搜集仓库](https://github.com/Controllerdestiny/TShockPlugin)
   * This is a repository dedicated to collecting and integrating TShock Chinese plugins. We will continue to collect high-quality TShock Chinese plugins and update them in a timely manner.
   * 这是一个致力于收集整合 TShock中文插件的仓库，我们将持续收集优质的 TShock 中文插件，并及时进行更新.
