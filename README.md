@@ -35,12 +35,13 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
   * [Download Version 1.5.4](https://argo.sfo2.digitaloceanspaces.com/tshock/MultiScore/MultiSCore-1.5.4.dll)
   * [Documentation](https://www.bbstr.net/r/75/)
   * [Source code](https://github.com/Megghy/MultiSCore/)
-* [TerrariaChatRelay](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock) by [Lady Narnia (xPanini)](https://github.com/xPanini)
+* [TerrariaChatRelay](https://github.com/xNarnia/TCR-TerrariaChatRelay) by [Narnia (Panini)](https://github.com/xNarnia)
   * Highly customizable Terraria Chat Relay with multiple Discord server support
-  * Tested on TShock 4.5.5.
-  * [Download Version 0.9.2](https://argo.sfo2.digitaloceanspaces.com/tshock/TerrariaChatRelay/TerrariaChatRelay-0.9.2.zip)
-  * [Documentation](https://github.com/xPanini/TCR-TerrariaChatRelay/wiki)
-  * [Source code](https://github.com/xPanini/TCR-TerrariaChatRelay-TShock)
+  * Tested on TShock 5.2.1.
+  * [Download Version 2.3.0.1 for TShock 5.2.1](https://files.catbox.moe/erm9bc.zip)
+  * [Download Version 1.0.0 for TShock 4.4.0-pre12](https://files.catbox.moe/d9mpej.zip)
+  * [Documentation](https://github.com/xNarnia/TCR-TerrariaChatRelay/wiki)
+  * [Source code](https://github.com/xNarnia/TCR-TerrariaChatRelay)
 * [WorldMapper](https://github.com/drunderscore/WorldMapper) by Dr. Underscore
   * Allows generation of a PNG map of the entire world.
   * Tested on TShock 4.5.2
