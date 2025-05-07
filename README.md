@@ -13,6 +13,14 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ----
 
 ## List of all plugins! 🧪☕️⚡️
+* [BanGuard plugin](https://github.com/BanGuard-TShock/plugin) by the BanGuard team
+  * Lets Terraria admins share bans and verify accounts via Discord.
+  * Tested on TShock 5.2.0
+  * [Download Version 0.1.6](https://github.com/BanGuard-TShock/plugin/releases/tag/v0.1.6)
+  * [Source code](https://github.com/BanGuard-TShock/plugin)
+  * [Website](https://banguard.uk)
+  * [License](https://www.gnu.org/licenses/gpl-3.0.html)
+  * [Contact (get token)](mailto:contact@banguard.uk?subject=BanGuard%20token%20request]
 * [TShock Chinese Plugin Collection | TShock中文插件搜集仓库](https://github.com/UnrealMultiple/TShockPlugin) by [UnrealMultiple](https://github.com/UnrealMultiple)
   * This is a repository dedicated to collecting and integrating TShock Chinese plugins. We will continue to collect high-quality TShock Chinese plugins and update them in a timely manner.
   * 这是一个致力于收集整合 TShock中文插件的仓库，我们将持续收集优质的 TShock 中文插件，并及时进行更新.
