@@ -10,6 +10,10 @@ This is the TShock plugin repository. All plugins from catbox have been analyzed
 ## Not updated
 ## This is not regularly updated anymore.
 
+Plugin authors can add their plugins to https://github.com/Pryaxis/TShock/wiki/Plugins. The TShock Team does not validate the security of plugins listed on the wiki.
+
+This plugin repository is not currently updated. However, the links to plugin downloads and related infrastructure should still work fine.
+
 ----
 
 ## List of all plugins! 🧪☕️⚡️
