@@ -224,6 +224,12 @@ This plugin repository is not currently updated. However, the links to plugin do
   * [Download Version 1.2.1](https://tshock.s3.us-west-001.backblazeb2.com/InfiniteChests/InfiniteChests-1.2.1.zip)
   * [Documentation](https://github.com/moisterrific/InfiniteChestsV3/blob/master/README.md)
   * [Source Code](https://github.com/moisterrific/InfiniteChestsV3/tree/master/InfiniteChestsV3)
+* [InfiniteChestsV3](https://github.com/Zaicon/InfiniteChestsV3) by [Zaicon](https://github.com/Zaicon), updated by [mpql](https://github.com/mpql)
+  * Allows 8000 chests and additional features such as auto-refill, password-protected chests, and more.
+  * Built and tested on TShock 4.5.17
+  * Download [1.6.0-mpql](https://github.com/mpql/InfiniteChestsV3/releases/download/1.6.0-mpql/InfiniteChestsV3_1.6.0-mpql.zip) | [Latest](https://github.com/mpql/InfiniteChestsV3/releases/)
+  * [Documentation](https://github.com/mpql/InfiniteChestsV3#readme)
+  * [Source Code](https://github.com/mpql/InfiniteChestsV3)
 
 #### Compatible with older TShock versions
 * [Calculator](https://github.com/edg-l/Calculator) by [edg-l](https://github.com/edg-l)
